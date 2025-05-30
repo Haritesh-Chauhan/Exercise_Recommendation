@@ -1,0 +1,1265 @@
+unique_id,age,height,weight,gender,exercise_name,body_part,type_of_muscle,sets,recommendation,BMI,BMI_Result
+1,32,172,68,Male,Bench Press,Chest,Compound,4,Muscle Gain,22.98,Normal Weight
+1,32,172,68,Male,Squats,Legs,Compound,5,Muscle Gain,22.98,Normal Weight
+1,32,172,68,Male,Deadlift,Back,Compound,4,Muscle Gain,22.98,Normal Weight
+1,32,172,68,Male,Shoulder Press,Shoulders,Isolation,4,Muscle Gain,22.98,Normal Weight
+1,32,172,68,Male,Barbell Rows,Back,Compound,4,Muscle Gain,22.98,Normal Weight
+2,29,167,63,Female,Leg Curls,Legs,Isolation,4,Muscle Gain,22.56,Normal Weight
+2,29,167,63,Female,Lunges,Legs,Compound,5,Muscle Gain,22.56,Normal Weight
+2,29,167,63,Female,Push-ups,Chest,Compound,3,Muscle Gain,22.56,Normal Weight
+2,29,167,63,Female,Plank,Core,Compound,3,Muscle Gain,22.56,Normal Weight
+2,29,167,63,Female,Crunches,Core,Isolation,3,Muscle Gain,22.56,Normal Weight
+3,38,178,80,Male,Leg Press,Legs,Compound,4,Muscle Gain,25.25,Overweight
+3,38,178,80,Male,Barbell Curls,Biceps,Isolation,3,Muscle Gain,25.25,Overweight
+3,38,178,80,Male,Hanging Leg Raises,Core,Isolation,3,Muscle Gain,25.25,Overweight
+3,38,178,80,Male,Dips,Triceps,Compound,4,Muscle Gain,25.25,Overweight
+3,38,178,80,Male,Glute Bridges,Glutes,Compound,4,Muscle Gain,25.25,Overweight
+4,44,173,90,Female,Plank,Core,Compound,3,Muscle Gain,30.07,Obesity
+4,44,173,90,Female,Leg Curls,Legs,Isolation,4,Muscle Gain,30.07,Obesity
+4,44,173,90,Female,Lunges,Legs,Compound,5,Muscle Gain,30.07,Obesity
+4,44,173,90,Female,Push-ups,Chest,Compound,3,Muscle Gain,30.07,Obesity
+4,44,173,90,Female,Crunches,Core,Isolation,3,Muscle Gain,30.07,Obesity
+5,55,180,95,Male,Deadlift,Back,Compound,4,Muscle Gain,29.32,Overweight
+5,55,180,95,Male,Barbell Rows,Back,Compound,4,Muscle Gain,29.32,Overweight
+5,55,180,95,Male,Squats,Legs,Compound,5,Muscle Gain,29.32,Overweight
+5,55,180,95,Male,Bench Press,Chest,Compound,4,Muscle Gain,29.32,Overweight
+5,55,180,95,Male,Shoulder Press,Shoulders,Isolation,4,Muscle Gain,29.32,Overweight
+6,37,165,70,Female,Plank,Core,Compound,3,Muscle Gain,25.71,Overweight
+6,37,165,70,Female,Leg Curls,Legs,Isolation,4,Muscle Gain,25.71,Overweight
+6,37,165,70,Female,Lunges,Legs,Compound,5,Muscle Gain,25.71,Overweight
+6,37,165,70,Female,Push-ups,Chest,Compound,3,Muscle Gain,25.71,Overweight
+6,37,165,70,Female,Crunches,Core,Isolation,3,Muscle Gain,25.71,Overweight
+7,28,170,60,Male,Deadlift,Back,Compound,4,Muscle Gain,20.76,Normal Weight
+7,28,170,60,Male,Barbell Rows,Back,Compound,4,Muscle Gain,20.76,Normal Weight
+7,28,170,60,Male,Bench Press,Chest,Compound,4,Muscle Gain,20.76,Normal Weight
+7,28,170,60,Male,Squats,Legs,Compound,5,Muscle Gain,20.76,Normal Weight
+7,28,170,60,Male,Shoulder Press,Shoulders,Isolation,4,Muscle Gain,20.76,Normal Weight
+8,33,160,65,Female,Lunges,Legs,Compound,5,Muscle Gain,25.39,Overweight
+8,33,160,65,Female,Push-ups,Chest,Compound,3,Muscle Gain,25.39,Overweight
+8,33,160,65,Female,Plank,Core,Compound,3,Muscle Gain,25.39,Overweight
+8,33,160,65,Female,Leg Curls,Legs,Isolation,4,Muscle Gain,25.39,Overweight
+8,33,160,65,Female,Crunches,Core,Isolation,3,Muscle Gain,25.39,Overweight
+9,46,175,80,Male,Hanging Leg Raises,Core,Isolation,3,Muscle Gain,26.12,Overweight
+9,46,175,80,Male,Dips,Triceps,Compound,4,Muscle Gain,26.12,Overweight
+9,46,175,80,Male,Barbell Curls,Biceps,Isolation,3,Muscle Gain,26.12,Overweight
+9,46,175,80,Male,Leg Press,Legs,Compound,4,Muscle Gain,26.12,Overweight
+9,46,175,80,Male,Glute Bridges,Glutes,Compound,4,Muscle Gain,26.12,Overweight
+10,30,168,70,Female,Leg Curls,Legs,Isolation,4,Muscle Gain,24.8,Normal Weight
+10,30,168,70,Female,Lunges,Legs,Compound,5,Muscle Gain,24.8,Normal Weight
+10,30,168,70,Female,Push-ups,Chest,Compound,3,Muscle Gain,24.8,Normal Weight
+10,30,168,70,Female,Plank,Core,Compound,3,Muscle Gain,24.8,Normal Weight
+10,30,168,70,Female,Crunches,Core,Isolation,3,Muscle Gain,24.8,Normal Weight
+11,35,172,75,Male,Squats,Legs,Compound,5,Muscle Gain,25.35,Overweight
+11,35,172,75,Male,Deadlift,Back,Compound,4,Muscle Gain,25.35,Overweight
+11,35,172,75,Male,Shoulder Press,Shoulders,Isolation,4,Muscle Gain,25.35,Overweight
+11,35,172,75,Male,Barbell Rows,Back,Compound,4,Muscle Gain,25.35,Overweight
+11,35,172,75,Male,Bench Press,Chest,Compound,4,Muscle Gain,25.35,Overweight
+12,40,165,68,Female,Leg Press,Legs,Compound,4,Muscle Gain,25.03,Overweight
+12,40,165,68,Female,Plank,Core,Compound,3,Muscle Gain,25.03,Overweight
+12,40,165,68,Female,Leg Curls,Legs,Isolation,4,Muscle Gain,25.03,Overweight
+12,40,165,68,Female,Lunges,Legs,Compound,5,Muscle Gain,25.03,Overweight
+12,40,165,68,Female,Push-ups,Chest,Compound,3,Muscle Gain,25.03,Overweight
+13,50,178,85,Male,Leg Curls,Legs,Isolation,4,Muscle Gain,26.82,Overweight
+13,50,178,85,Male,Lunges,Legs,Compound,5,Muscle Gain,26.82,Overweight
+13,50,178,85,Male,Push-ups,Chest,Compound,3,Muscle Gain,26.82,Overweight
+13,50,178,85,Male,Plank,Core,Compound,3,Muscle Gain,26.82,Overweight
+13,50,178,85,Male,Crunches,Core,Isolation,3,Muscle Gain,26.82,Overweight
+14,28,170,65,Female,Bench Press,Chest,Compound,4,Muscle Gain,22.49,Normal Weight
+14,28,170,65,Female,Squats,Legs,Compound,5,Muscle Gain,22.49,Normal Weight
+14,28,170,65,Female,Deadlift,Back,Compound,4,Muscle Gain,22.49,Normal Weight
+14,28,170,65,Female,Shoulder Press,Shoulders,Isolation,4,Muscle Gain,22.49,Normal Weight
+14,28,170,65,Female,Barbell Rows,Back,Compound,4,Muscle Gain,22.49,Normal Weight
+15,32,165,68,Male,Leg Press,Legs,Compound,4,Muscle Gain,25.04,Overweight
+15,32,165,68,Male,Plank,Core,Compound,3,Muscle Gain,25.04,Overweight
+15,32,165,68,Male,Leg Curls,Legs,Isolation,4,Muscle Gain,25.04,Overweight
+15,32,165,68,Male,Lunges,Legs,Compound,5,Muscle Gain,25.04,Overweight
+15,32,165,68,Male,Push-ups,Chest,Compound,3,Muscle Gain,25.04,Overweight
+16,35,175,75,Female,Push-ups,Chest,Compound,3,Muscle Gain,24.49,Normal Weight
+16,35,175,75,Female,Plank,Core,Compound,3,Muscle Gain,24.49,Normal Weight
+16,35,175,75,Female,Leg Curls,Legs,Isolation,4,Muscle Gain,24.49,Normal Weight
+16,35,175,75,Female,Lunges,Legs,Compound,5,Muscle Gain,24.49,Normal Weight
+16,35,175,75,Female,Crunches,Core,Isolation,3,Muscle Gain,24.49,Normal Weight
+17,40,180,80,Male,Barbell Rows,Back,Compound,4,Muscle Gain,24.69,Normal Weight
+17,40,180,80,Male,Deadlift,Back,Compound,4,Muscle Gain,24.69,Normal Weight
+17,40,180,80,Male,Bench Press,Chest,Compound,4,Muscle Gain,24.69,Normal Weight
+17,40,180,80,Male,Squats,Legs,Compound,5,Muscle Gain,24.69,Normal Weight
+17,40,180,80,Male,Shoulder Press,Shoulders,Isolation,4,Muscle Gain,24.69,Normal Weight
+18,45,172,70,Female,Leg Curls,Legs,Isolation,4,Muscle Gain,23.66,Normal Weight
+18,45,172,70,Female,Lunges,Legs,Compound,5,Muscle Gain,23.66,Normal Weight
+18,45,172,70,Female,Push-ups,Chest,Compound,3,Muscle Gain,23.66,Normal Weight
+18,45,172,70,Female,Plank,Core,Compound,3,Muscle Gain,23.66,Normal Weight
+18,45,172,70,Female,Crunches,Core,Isolation,3,Muscle Gain,23.66,Normal Weight
+19,50,175,85,Male,Hanging Leg Raises,Core,Isolation,3,Muscle Gain,27.76,Overweight
+19,50,175,85,Male,Dips,Triceps,Compound,4,Muscle Gain,27.76,Overweight
+19,50,175,85,Male,Barbell Curls,Biceps,Isolation,3,Muscle Gain,27.76,Overweight
+19,50,175,85,Male,Leg Press,Legs,Compound,4,Muscle Gain,27.76,Overweight
+19,50,175,85,Male,Glute Bridges,Glutes,Compound,4,Muscle Gain,27.76,Overweight
+20,35,165,75,Female,Leg Press,Legs,Compound,4,Muscle Gain,27.55,Overweight
+20,35,165,75,Female,Plank,Core,Compound,3,Muscle Gain,27.55,Overweight
+20,35,165,75,Female,Leg Curls,Legs,Isolation,4,Muscle Gain,27.55,Overweight
+20,35,165,75,Female,Lunges,Legs,Compound,5,Muscle Gain,27.55,Overweight
+20,35,165,75,Female,Push-ups,Chest,Compound,3,Muscle Gain,27.55,Overweight
+21,42,170,80,Male,Plank,Core,Compound,3,Muscle Gain,27.68,Overweight
+21,42,170,80,Male,Leg Curls,Legs,Isolation,4,Muscle Gain,27.68,Overweight
+21,42,170,80,Male,Lunges,Legs,Compound,5,Muscle Gain,27.68,Overweight
+21,42,170,80,Male,Push-ups,Chest,Compound,3,Muscle Gain,27.68,Overweight
+21,42,170,80,Male,Crunches,Core,Isolation,3,Muscle Gain,27.68,Overweight
+22,36,168,70,Female,Deadlift,Back,Compound,4,Muscle Gain,24.8,Normal Weight
+22,36,168,70,Female,Barbell Rows,Back,Compound,4,Muscle Gain,24.8,Normal Weight
+22,36,168,70,Female,Bench Press,Chest,Compound,4,Muscle Gain,24.8,Normal Weight
+22,36,168,70,Female,Squats,Legs,Compound,5,Muscle Gain,24.8,Normal Weight
+22,36,168,70,Female,Shoulder Press,Shoulders,Isolation,4,Muscle Gain,24.8,Normal Weight
+23,48,175,85,Male,Leg Curls,Legs,Isolation,4,Muscle Gain,27.76,Overweight
+23,48,175,85,Male,Lunges,Legs,Compound,5,Muscle Gain,27.76,Overweight
+23,48,175,85,Male,Push-ups,Chest,Compound,3,Muscle Gain,27.76,Overweight
+23,48,175,85,Male,Plank,Core,Compound,3,Muscle Gain,27.76,Overweight
+23,48,175,85,Male,Crunches,Core,Isolation,3,Muscle Gain,27.76,Overweight
+24,55,178,90,Female,Leg Press,Legs,Compound,4,Muscle Gain,28.45,Overweight
+24,55,178,90,Female,Plank,Core,Compound,3,Muscle Gain,28.45,Overweight
+24,55,178,90,Female,Leg Curls,Legs,Isolation,4,Muscle Gain,28.45,Overweight
+24,55,178,90,Female,Lunges,Legs,Compound,5,Muscle Gain,28.45,Overweight
+24,55,178,90,Female,Push-ups,Chest,Compound,3,Muscle Gain,28.45,Overweight
+25,42,170,75,Male,Barbell Rows,Back,Compound,4,Muscle Gain,25.95,Overweight
+25,42,170,75,Male,Deadlift,Back,Compound,4,Muscle Gain,25.95,Overweight
+25,42,170,75,Male,Squats,Legs,Compound,5,Muscle Gain,25.95,Overweight
+25,42,170,75,Male,Bench Press,Chest,Compound,4,Muscle Gain,25.95,Overweight
+25,42,170,75,Male,Shoulder Press,Shoulders,Isolation,4,Muscle Gain,25.95,Overweight
+26,36,165,70,Female,Leg Curls,Legs,Isolation,4,Muscle Gain,25.71,Overweight
+26,36,165,70,Female,Lunges,Legs,Compound,5,Muscle Gain,25.71,Overweight
+26,36,165,70,Female,Push-ups,Chest,Compound,3,Muscle Gain,25.71,Overweight
+26,36,165,70,Female,Plank,Core,Compound,3,Muscle Gain,25.71,Overweight
+26,36,165,70,Female,Crunches,Core,Isolation,3,Muscle Gain,25.71,Overweight
+27,50,175,85,Male,Hanging Leg Raises,Core,Isolation,3,Muscle Gain,27.76,Overweight
+27,50,175,85,Male,Dips,Triceps,Compound,4,Muscle Gain,27.76,Overweight
+27,50,175,85,Male,Barbell Curls,Biceps,Isolation,3,Muscle Gain,27.76,Overweight
+27,50,175,85,Male,Leg Press,Legs,Compound,4,Muscle Gain,27.76,Overweight
+27,50,175,85,Male,Glute Bridges,Glutes,Compound,4,Muscle Gain,27.76,Overweight
+28,37,160,65,Female,Leg Press,Legs,Compound,4,Muscle Gain,25.39,Overweight
+28,37,160,65,Female,Plank,Core,Compound,3,Muscle Gain,25.39,Overweight
+28,37,160,65,Female,Leg Curls,Legs,Isolation,4,Muscle Gain,25.39,Overweight
+28,37,160,65,Female,Lunges,Legs,Compound,5,Muscle Gain,25.39,Overweight
+28,37,160,65,Female,Push-ups,Chest,Compound,3,Muscle Gain,25.39,Overweight
+29,44,170,80,Male,Plank,Core,Compound,3,Muscle Gain,27.68,Overweight
+29,44,170,80,Male,Leg Curls,Legs,Isolation,4,Muscle Gain,27.68,Overweight
+29,44,170,80,Male,Lunges,Legs,Compound,5,Muscle Gain,27.68,Overweight
+29,44,170,80,Male,Push-ups,Chest,Compound,3,Muscle Gain,27.68,Overweight
+29,44,170,80,Male,Crunches,Core,Isolation,3,Muscle Gain,27.68,Overweight
+30,30,168,70,Female,Deadlift,Back,Compound,4,Muscle Gain,24.8,Normal Weight
+30,30,168,70,Female,Barbell Rows,Back,Compound,4,Muscle Gain,24.8,Normal Weight
+30,30,168,70,Female,Bench Press,Chest,Compound,4,Muscle Gain,24.8,Normal Weight
+30,30,168,70,Female,Squats,Legs,Compound,5,Muscle Gain,24.8,Normal Weight
+30,30,168,70,Female,Shoulder Press,Shoulders,Isolation,4,Muscle Gain,24.8,Normal Weight
+31,35,172,75,Male,Leg Press,Legs,Compound,4,Muscle Gain,25.35,Overweight
+31,35,172,75,Male,Plank,Core,Compound,3,Muscle Gain,25.35,Overweight
+31,35,172,75,Male,Leg Curls,Legs,Isolation,4,Muscle Gain,25.35,Overweight
+31,35,172,75,Male,Lunges,Legs,Compound,5,Muscle Gain,25.35,Overweight
+31,35,172,75,Male,Push-ups,Chest,Compound,3,Muscle Gain,25.35,Overweight
+32,40,175,85,Female,Barbell Rows,Back,Compound,4,Muscle Gain,27.76,Overweight
+32,40,175,85,Female,Deadlift,Back,Compound,4,Muscle Gain,27.76,Overweight
+32,40,175,85,Female,Squats,Legs,Compound,5,Muscle Gain,27.76,Overweight
+32,40,175,85,Female,Bench Press,Chest,Compound,4,Muscle Gain,27.76,Overweight
+32,40,175,85,Female,Shoulder Press,Shoulders,Isolation,4,Muscle Gain,27.76,Overweight
+33,36,165,70,Female,Leg Curls,Legs,Isolation,4,Muscle Gain,25.71,Overweight
+33,36,165,70,Female,Lunges,Legs,Compound,5,Muscle Gain,25.71,Overweight
+33,36,165,70,Female,Push-ups,Chest,Compound,3,Muscle Gain,25.71,Overweight
+33,36,165,70,Female,Plank,Core,Compound,3,Muscle Gain,25.71,Overweight
+33,36,165,70,Female,Crunches,Core,Isolation,3,Muscle Gain,25.71,Overweight
+34,50,175,85,Male,Hanging Leg Raises,Core,Isolation,3,Muscle Gain,27.76,Overweight
+34,50,175,85,Male,Dips,Triceps,Compound,4,Muscle Gain,27.76,Overweight
+34,50,175,85,Male,Barbell Curls,Biceps,Isolation,3,Muscle Gain,27.76,Overweight
+34,50,175,85,Male,Leg Press,Legs,Compound,4,Muscle Gain,27.76,Overweight
+34,50,175,85,Male,Glute Bridges,Glutes,Compound,4,Muscle Gain,27.76,Overweight
+35,37,160,65,Female,Leg Press,Legs,Compound,4,Muscle Gain,25.39,Overweight
+35,37,160,65,Female,Plank,Core,Compound,3,Muscle Gain,25.39,Overweight
+35,37,160,65,Female,Leg Curls,Legs,Isolation,4,Muscle Gain,25.39,Overweight
+35,37,160,65,Female,Lunges,Legs,Compound,5,Muscle Gain,25.39,Overweight
+35,37,160,65,Female,Push-ups,Chest,Compound,3,Muscle Gain,25.39,Overweight
+36,44,170,80,Male,Plank,Core,Compound,3,Muscle Gain,27.68,Overweight
+36,44,170,80,Male,Leg Curls,Legs,Isolation,4,Muscle Gain,27.68,Overweight
+36,44,170,80,Male,Lunges,Legs,Compound,5,Muscle Gain,27.68,Overweight
+36,44,170,80,Male,Push-ups,Chest,Compound,3,Muscle Gain,27.68,Overweight
+36,44,170,80,Male,Crunches,Core,Isolation,3,Muscle Gain,27.68,Overweight
+37,30,168,70,Female,Deadlift,Back,Compound,4,Muscle Gain,24.8,Normal Weight
+37,30,168,70,Female,Barbell Rows,Back,Compound,4,Muscle Gain,24.8,Normal Weight
+37,30,168,70,Female,Bench Press,Chest,Compound,4,Muscle Gain,24.8,Normal Weight
+37,30,168,70,Female,Squats,Legs,Compound,5,Muscle Gain,24.8,Normal Weight
+37,30,168,70,Female,Shoulder Press,Shoulders,Isolation,4,Muscle Gain,24.8,Normal Weight
+38,35,172,75,Male,Leg Press,Legs,Compound,4,Muscle Gain,25.35,Overweight
+38,35,172,75,Male,Plank,Core,Compound,3,Muscle Gain,25.35,Overweight
+38,35,172,75,Male,Leg Curls,Legs,Isolation,4,Muscle Gain,25.35,Overweight
+38,35,172,75,Male,Lunges,Legs,Compound,5,Muscle Gain,25.35,Overweight
+38,35,172,75,Male,Push-ups,Chest,Compound,3,Muscle Gain,25.35,Overweight
+39,40,175,85,Female,Barbell Rows,Back,Compound,4,Muscle Gain,27.76,Overweight
+39,40,175,85,Female,Deadlift,Back,Compound,4,Muscle Gain,27.76,Overweight
+39,40,175,85,Female,Squats,Legs,Compound,5,Muscle Gain,27.76,Overweight
+39,40,175,85,Female,Bench Press,Chest,Compound,4,Muscle Gain,27.76,Overweight
+39,40,175,85,Female,Shoulder Press,Shoulders,Isolation,4,Muscle Gain,27.76,Overweight
+40,36,165,70,Female,Leg Curls,Legs,Isolation,4,Muscle Gain,25.71,Overweight
+40,36,165,70,Female,Lunges,Legs,Compound,5,Muscle Gain,25.71,Overweight
+40,36,165,70,Female,Push-ups,Chest,Compound,3,Muscle Gain,25.71,Overweight
+40,36,165,70,Female,Plank,Core,Compound,3,Muscle Gain,25.71,Overweight
+40,36,165,70,Female,Crunches,Core,Isolation,3,Muscle Gain,25.71,Overweight
+41,50,175,85,Male,Hanging Leg Raises,Core,Isolation,3,Muscle Gain,27.76,Overweight
+41,50,175,85,Male,Dips,Triceps,Compound,4,Muscle Gain,27.76,Overweight
+41,50,175,85,Male,Barbell Curls,Biceps,Isolation,3,Muscle Gain,27.76,Overweight
+41,50,175,85,Male,Leg Press,Legs,Compound,4,Muscle Gain,27.76,Overweight
+41,50,175,85,Male,Glute Bridges,Glutes,Compound,4,Muscle Gain,27.76,Overweight
+42,37,160,65,Female,Leg Press,Legs,Compound,4,Muscle Gain,25.39,Overweight
+42,37,160,65,Female,Plank,Core,Compound,3,Muscle Gain,25.39,Overweight
+42,37,160,65,Female,Leg Curls,Legs,Isolation,4,Muscle Gain,25.39,Overweight
+42,37,160,65,Female,Lunges,Legs,Compound,5,Muscle Gain,25.39,Overweight
+42,37,160,65,Female,Push-ups,Chest,Compound,3,Muscle Gain,25.39,Overweight
+43,44,170,80,Male,Plank,Core,Compound,3,Muscle Gain,27.68,Overweight
+43,44,170,80,Male,Leg Curls,Legs,Isolation,4,Muscle Gain,27.68,Overweight
+43,44,170,80,Male,Lunges,Legs,Compound,5,Muscle Gain,27.68,Overweight
+43,44,170,80,Male,Push-ups,Chest,Compound,3,Muscle Gain,27.68,Overweight
+43,44,170,80,Male,Crunches,Core,Isolation,3,Muscle Gain,27.68,Overweight
+44,30,168,70,Female,Deadlift,Back,Compound,4,Muscle Gain,24.8,Normal Weight
+44,30,168,70,Female,Barbell Rows,Back,Compound,4,Muscle Gain,24.8,Normal Weight
+44,30,168,70,Female,Bench Press,Chest,Compound,4,Muscle Gain,24.8,Normal Weight
+44,30,168,70,Female,Squats,Legs,Compound,5,Muscle Gain,24.8,Normal Weight
+44,30,168,70,Female,Shoulder Press,Shoulders,Isolation,4,Muscle Gain,24.8,Normal Weight
+45,35,172,75,Male,Leg Press,Legs,Compound,4,Muscle Gain,25.35,Overweight
+45,35,172,75,Male,Plank,Core,Compound,3,Muscle Gain,25.35,Overweight
+45,35,172,75,Male,Leg Curls,Legs,Isolation,4,Muscle Gain,25.35,Overweight
+45,35,172,75,Male,Lunges,Legs,Compound,5,Muscle Gain,25.35,Overweight
+45,35,172,75,Male,Push-ups,Chest,Compound,3,Muscle Gain,25.35,Overweight
+46,40,175,85,Female,Barbell Rows,Back,Compound,4,Muscle Gain,27.76,Overweight
+46,40,175,85,Female,Deadlift,Back,Compound,4,Muscle Gain,27.76,Overweight
+46,40,175,85,Female,Squats,Legs,Compound,5,Muscle Gain,27.76,Overweight
+46,40,175,85,Female,Bench Press,Chest,Compound,4,Muscle Gain,27.76,Overweight
+46,40,175,85,Female,Shoulder Press,Shoulders,Isolation,4,Muscle Gain,27.76,Overweight
+47,36,165,70,Female,Leg Curls,Legs,Isolation,4,Muscle Gain,25.71,Overweight
+47,36,165,70,Female,Lunges,Legs,Compound,5,Muscle Gain,25.71,Overweight
+47,36,165,70,Female,Push-ups,Chest,Compound,3,Muscle Gain,25.71,Overweight
+47,36,165,70,Female,Plank,Core,Compound,3,Muscle Gain,25.71,Overweight
+47,36,165,70,Female,Crunches,Core,Isolation,3,Muscle Gain,25.71,Overweight
+48,50,175,85,Male,Hanging Leg Raises,Core,Isolation,3,Muscle Gain,27.76,Overweight
+48,50,175,85,Male,Dips,Triceps,Compound,4,Muscle Gain,27.76,Overweight
+48,50,175,85,Male,Barbell Curls,Biceps,Isolation,3,Muscle Gain,27.76,Overweight
+48,50,175,85,Male,Leg Press,Legs,Compound,4,Muscle Gain,27.76,Overweight
+48,50,175,85,Male,Glute Bridges,Glutes,Compound,4,Muscle Gain,27.76,Overweight
+49,37,160,65,Female,Leg Press,Legs,Compound,4,Muscle Gain,25.39,Overweight
+49,37,160,65,Female,Plank,Core,Compound,3,Muscle Gain,25.39,Overweight
+49,37,160,65,Female,Leg Curls,Legs,Isolation,4,Muscle Gain,25.39,Overweight
+49,37,160,65,Female,Lunges,Legs,Compound,5,Muscle Gain,25.39,Overweight
+49,37,160,65,Female,Push-ups,Chest,Compound,3,Muscle Gain,25.39,Overweight
+50,44,170,80,Male,Plank,Core,Compound,3,Muscle Gain,27.68,Overweight
+50,44,170,80,Male,Leg Curls,Legs,Isolation,4,Muscle Gain,27.68,Overweight
+50,44,170,80,Male,Lunges,Legs,Compound,5,Muscle Gain,27.68,Overweight
+50,44,170,80,Male,Push-ups,Chest,Compound,3,Muscle Gain,27.68,Overweight
+50,44,170,80,Male,Crunches,Core,Isolation,3,Muscle Gain,27.68,Overweight
+51,30,168,70,Female,Deadlift,Back,Compound,4,Muscle Gain,24.8,Normal Weight
+51,30,168,70,Female,Barbell Rows,Back,Compound,4,Muscle Gain,24.8,Normal Weight
+51,30,168,70,Female,Bench Press,Chest,Compound,4,Muscle Gain,24.8,Normal Weight
+51,30,168,70,Female,Squats,Legs,Compound,5,Muscle Gain,24.8,Normal Weight
+51,30,168,70,Female,Shoulder Press,Shoulders,Isolation,4,Muscle Gain,24.8,Normal Weight
+52,35,172,75,Male,Leg Press,Legs,Compound,4,Muscle Gain,25.35,Overweight
+52,35,172,75,Male,Plank,Core,Compound,3,Muscle Gain,25.35,Overweight
+52,35,172,75,Male,Leg Curls,Legs,Isolation,4,Muscle Gain,25.35,Overweight
+52,35,172,75,Male,Lunges,Legs,Compound,5,Muscle Gain,25.35,Overweight
+52,35,172,75,Male,Push-ups,Chest,Compound,3,Muscle Gain,25.35,Overweight
+53,40,175,85,Female,Barbell Rows,Back,Compound,4,Muscle Gain,27.76,Overweight
+53,40,175,85,Female,Deadlift,Back,Compound,4,Muscle Gain,27.76,Overweight
+53,40,175,85,Female,Squats,Legs,Compound,5,Muscle Gain,27.76,Overweight
+53,40,175,85,Female,Bench Press,Chest,Compound,4,Muscle Gain,27.76,Overweight
+53,40,175,85,Female,Shoulder Press,Shoulders,Isolation,4,Muscle Gain,27.76,Overweight
+54,36,165,70,Female,Leg Curls,Legs,Isolation,4,Muscle Gain,25.71,Overweight
+54,36,165,70,Female,Lunges,Legs,Compound,5,Muscle Gain,25.71,Overweight
+54,36,165,70,Female,Push-ups,Chest,Compound,3,Muscle Gain,25.71,Overweight
+54,36,165,70,Female,Plank,Core,Compound,3,Muscle Gain,25.71,Overweight
+54,36,165,70,Female,Crunches,Core,Isolation,3,Muscle Gain,25.71,Overweight
+55,50,175,85,Male,Hanging Leg Raises,Core,Isolation,3,Muscle Gain,27.76,Overweight
+55,50,175,85,Male,Dips,Triceps,Compound,4,Muscle Gain,27.76,Overweight
+55,50,175,85,Male,Barbell Curls,Biceps,Isolation,3,Muscle Gain,27.76,Overweight
+55,50,175,85,Male,Leg Press,Legs,Compound,4,Muscle Gain,27.76,Overweight
+55,50,175,85,Male,Glute Bridges,Glutes,Compound,4,Muscle Gain,27.76,Overweight
+56,37,160,65,Female,Leg Press,Legs,Compound,4,Muscle Gain,25.39,Overweight
+56,37,160,65,Female,Plank,Core,Compound,3,Muscle Gain,25.39,Overweight
+56,37,160,65,Female,Leg Curls,Legs,Isolation,4,Muscle Gain,25.39,Overweight
+56,37,160,65,Female,Lunges,Legs,Compound,5,Muscle Gain,25.39,Overweight
+56,37,160,65,Female,Push-ups,Chest,Compound,3,Muscle Gain,25.39,Overweight
+57,44,170,80,Male,Plank,Core,Compound,3,Muscle Gain,27.68,Overweight
+57,44,170,80,Male,Leg Curls,Legs,Isolation,4,Muscle Gain,27.68,Overweight
+57,44,170,80,Male,Lunges,Legs,Compound,5,Muscle Gain,27.68,Overweight
+57,44,170,80,Male,Push-ups,Chest,Compound,3,Muscle Gain,27.68,Overweight
+57,44,170,80,Male,Crunches,Core,Isolation,3,Muscle Gain,27.68,Overweight
+58,30,168,70,Female,Deadlift,Back,Compound,4,Muscle Gain,24.8,Normal Weight
+58,30,168,70,Female,Barbell Rows,Back,Compound,4,Muscle Gain,24.8,Normal Weight
+58,30,168,70,Female,Bench Press,Chest,Compound,4,Muscle Gain,24.8,Normal Weight
+58,30,168,70,Female,Squats,Legs,Compound,5,Muscle Gain,24.8,Normal Weight
+58,30,168,70,Female,Shoulder Press,Shoulders,Isolation,4,Muscle Gain,24.8,Normal Weight
+59,35,172,75,Male,Leg Press,Legs,Compound,4,Muscle Gain,25.35,Overweight
+59,35,172,75,Male,Plank,Core,Compound,3,Muscle Gain,25.35,Overweight
+59,35,172,75,Male,Leg Curls,Legs,Isolation,4,Muscle Gain,25.35,Overweight
+59,35,172,75,Male,Lunges,Legs,Compound,5,Muscle Gain,25.35,Overweight
+59,35,172,75,Male,Push-ups,Chest,Compound,3,Muscle Gain,25.35,Overweight
+60,40,175,85,Female,Barbell Rows,Back,Compound,4,Muscle Gain,27.76,Overweight
+60,40,175,85,Female,Deadlift,Back,Compound,4,Muscle Gain,27.76,Overweight
+60,40,175,85,Female,Squats,Legs,Compound,5,Muscle Gain,27.76,Overweight
+60,40,175,85,Female,Bench Press,Chest,Compound,4,Muscle Gain,27.76,Overweight
+60,40,175,85,Female,Shoulder Press,Shoulders,Isolation,4,Muscle Gain,27.76,Overweight
+61,36,165,70,Female,Leg Curls,Legs,Isolation,4,Muscle Gain,25.71,Overweight
+61,36,165,70,Female,Lunges,Legs,Compound,5,Muscle Gain,25.71,Overweight
+61,36,165,70,Female,Push-ups,Chest,Compound,3,Muscle Gain,25.71,Overweight
+61,36,165,70,Female,Plank,Core,Compound,3,Muscle Gain,25.71,Overweight
+61,36,165,70,Female,Crunches,Core,Isolation,3,Muscle Gain,25.71,Overweight
+62,50,175,85,Male,Hanging Leg Raises,Core,Isolation,3,Muscle Gain,27.76,Overweight
+62,50,175,85,Male,Dips,Triceps,Compound,4,Muscle Gain,27.76,Overweight
+62,50,175,85,Male,Barbell Curls,Biceps,Isolation,3,Muscle Gain,27.76,Overweight
+62,50,175,85,Male,Leg Press,Legs,Compound,4,Muscle Gain,27.76,Overweight
+62,50,175,85,Male,Glute Bridges,Glutes,Compound,4,Muscle Gain,27.76,Overweight
+63,37,160,65,Female,Leg Press,Legs,Compound,4,Muscle Gain,25.39,Overweight
+63,37,160,65,Female,Plank,Core,Compound,3,Muscle Gain,25.39,Overweight
+63,37,160,65,Female,Leg Curls,Legs,Isolation,4,Muscle Gain,25.39,Overweight
+63,37,160,65,Female,Lunges,Legs,Compound,5,Muscle Gain,25.39,Overweight
+63,37,160,65,Female,Push-ups,Chest,Compound,3,Muscle Gain,25.39,Overweight
+64,44,170,80,Male,Plank,Core,Compound,3,Muscle Gain,27.68,Overweight
+64,44,170,80,Male,Leg Curls,Legs,Isolation,4,Muscle Gain,27.68,Overweight
+64,44,170,80,Male,Lunges,Legs,Compound,5,Muscle Gain,27.68,Overweight
+64,44,170,80,Male,Push-ups,Chest,Compound,3,Muscle Gain,27.68,Overweight
+64,44,170,80,Male,Crunches,Core,Isolation,3,Muscle Gain,27.68,Overweight
+65,30,168,70,Female,Deadlift,Back,Compound,4,Muscle Gain,24.8,Normal Weight
+65,30,168,70,Female,Barbell Rows,Back,Compound,4,Muscle Gain,24.8,Normal Weight
+65,30,168,70,Female,Bench Press,Chest,Compound,4,Muscle Gain,24.8,Normal Weight
+65,30,168,70,Female,Squats,Legs,Compound,5,Muscle Gain,24.8,Normal Weight
+65,30,168,70,Female,Shoulder Press,Shoulders,Isolation,4,Muscle Gain,24.8,Normal Weight
+66,35,172,75,Male,Leg Press,Legs,Compound,4,Muscle Gain,25.35,Overweight
+66,35,172,75,Male,Plank,Core,Compound,3,Muscle Gain,25.35,Overweight
+66,35,172,75,Male,Leg Curls,Legs,Isolation,4,Muscle Gain,25.35,Overweight
+66,35,172,75,Male,Lunges,Legs,Compound,5,Muscle Gain,25.35,Overweight
+66,35,172,75,Male,Push-ups,Chest,Compound,3,Muscle Gain,25.35,Overweight
+67,40,175,85,Female,Barbell Rows,Back,Compound,4,Muscle Gain,27.76,Overweight
+67,40,175,85,Female,Deadlift,Back,Compound,4,Muscle Gain,27.76,Overweight
+67,40,175,85,Female,Squats,Legs,Compound,5,Muscle Gain,27.76,Overweight
+67,40,175,85,Female,Bench Press,Chest,Compound,4,Muscle Gain,27.76,Overweight
+67,40,175,85,Female,Shoulder Press,Shoulders,Isolation,4,Muscle Gain,27.76,Overweight
+68,36,165,70,Female,Leg Curls,Legs,Isolation,4,Muscle Gain,25.71,Overweight
+68,36,165,70,Female,Lunges,Legs,Compound,5,Muscle Gain,25.71,Overweight
+68,36,165,70,Female,Push-ups,Chest,Compound,3,Muscle Gain,25.71,Overweight
+68,36,165,70,Female,Plank,Core,Compound,3,Muscle Gain,25.71,Overweight
+68,36,165,70,Female,Crunches,Core,Isolation,3,Muscle Gain,25.71,Overweight
+69,50,175,85,Male,Hanging Leg Raises,Core,Isolation,3,Muscle Gain,27.76,Overweight
+69,50,175,85,Male,Dips,Triceps,Compound,4,Muscle Gain,27.76,Overweight
+69,50,175,85,Male,Barbell Curls,Biceps,Isolation,3,Muscle Gain,27.76,Overweight
+69,50,175,85,Male,Leg Press,Legs,Compound,4,Muscle Gain,27.76,Overweight
+69,50,175,85,Male,Glute Bridges,Glutes,Compound,4,Muscle Gain,27.76,Overweight
+70,37,160,65,Female,Leg Press,Legs,Compound,4,Muscle Gain,25.39,Overweight
+70,37,160,65,Female,Plank,Core,Compound,3,Muscle Gain,25.39,Overweight
+70,37,160,65,Female,Leg Curls,Legs,Isolation,4,Muscle Gain,25.39,Overweight
+70,37,160,65,Female,Lunges,Legs,Compound,5,Muscle Gain,25.39,Overweight
+70,37,160,65,Female,Push-ups,Chest,Compound,3,Muscle Gain,25.39,Overweight
+71,44,170,80,Male,Plank,Core,Compound,3,Muscle Gain,27.68,Overweight
+71,44,170,80,Male,Leg Curls,Legs,Isolation,4,Muscle Gain,27.68,Overweight
+71,44,170,80,Male,Lunges,Legs,Compound,5,Muscle Gain,27.68,Overweight
+71,44,170,80,Male,Push-ups,Chest,Compound,3,Muscle Gain,27.68,Overweight
+71,44,170,80,Male,Crunches,Core,Isolation,3,Muscle Gain,27.68,Overweight
+72,30,168,70,Female,Deadlift,Back,Compound,4,Muscle Gain,24.8,Normal Weight
+72,30,168,70,Female,Barbell Rows,Back,Compound,4,Muscle Gain,24.8,Normal Weight
+72,30,168,70,Female,Bench Press,Chest,Compound,4,Muscle Gain,24.8,Normal Weight
+72,30,168,70,Female,Squats,Legs,Compound,5,Muscle Gain,24.8,Normal Weight
+72,30,168,70,Female,Shoulder Press,Shoulders,Isolation,4,Muscle Gain,24.8,Normal Weight
+73,35,172,75,Male,Leg Press,Legs,Compound,4,Muscle Gain,25.35,Overweight
+73,35,172,75,Male,Plank,Core,Compound,3,Muscle Gain,25.35,Overweight
+73,35,172,75,Male,Leg Curls,Legs,Isolation,4,Muscle Gain,25.35,Overweight
+73,35,172,75,Male,Lunges,Legs,Compound,5,Muscle Gain,25.35,Overweight
+73,35,172,75,Male,Push-ups,Chest,Compound,3,Muscle Gain,25.35,Overweight
+74,40,175,85,Female,Barbell Rows,Back,Compound,4,Muscle Gain,27.76,Overweight
+74,40,175,85,Female,Deadlift,Back,Compound,4,Muscle Gain,27.76,Overweight
+74,40,175,85,Female,Squats,Legs,Compound,5,Muscle Gain,27.76,Overweight
+74,40,175,85,Female,Bench Press,Chest,Compound,4,Muscle Gain,27.76,Overweight
+74,40,175,85,Female,Shoulder Press,Shoulders,Isolation,4,Muscle Gain,27.76,Overweight
+75,36,165,70,Female,Leg Curls,Legs,Isolation,4,Muscle Gain,25.71,Overweight
+75,36,165,70,Female,Lunges,Legs,Compound,5,Muscle Gain,25.71,Overweight
+75,36,165,70,Female,Push-ups,Chest,Compound,3,Muscle Gain,25.71,Overweight
+75,36,165,70,Female,Plank,Core,Compound,3,Muscle Gain,25.71,Overweight
+75,36,165,70,Female,Crunches,Core,Isolation,3,Muscle Gain,25.71,Overweight
+76,50,175,85,Male,Hanging Leg Raises,Core,Isolation,3,Muscle Gain,27.76,Overweight
+76,50,175,85,Male,Dips,Triceps,Compound,4,Muscle Gain,27.76,Overweight
+76,50,175,85,Male,Barbell Curls,Biceps,Isolation,3,Muscle Gain,27.76,Overweight
+76,50,175,85,Male,Leg Press,Legs,Compound,4,Muscle Gain,27.76,Overweight
+76,50,175,85,Male,Glute Bridges,Glutes,Compound,4,Muscle Gain,27.76,Overweight
+77,37,160,65,Female,Leg Press,Legs,Compound,4,Muscle Gain,25.39,Overweight
+77,37,160,65,Female,Plank,Core,Compound,3,Muscle Gain,25.39,Overweight
+77,37,160,65,Female,Leg Curls,Legs,Isolation,4,Muscle Gain,25.39,Overweight
+77,37,160,65,Female,Lunges,Legs,Compound,5,Muscle Gain,25.39,Overweight
+77,37,160,65,Female,Push-ups,Chest,Compound,3,Muscle Gain,25.39,Overweight
+78,44,170,80,Male,Plank,Core,Compound,3,Muscle Gain,27.68,Overweight
+78,44,170,80,Male,Leg Curls,Legs,Isolation,4,Muscle Gain,27.68,Overweight
+78,44,170,80,Male,Lunges,Legs,Compound,5,Muscle Gain,27.68,Overweight
+78,44,170,80,Male,Push-ups,Chest,Compound,3,Muscle Gain,27.68,Overweight
+78,44,170,80,Male,Crunches,Core,Isolation,3,Muscle Gain,27.68,Overweight
+79,30,168,70,Female,Deadlift,Back,Compound,4,Muscle Gain,24.8,Normal Weight
+79,30,168,70,Female,Barbell Rows,Back,Compound,4,Muscle Gain,24.8,Normal Weight
+79,30,168,70,Female,Bench Press,Chest,Compound,4,Muscle Gain,24.8,Normal Weight
+79,30,168,70,Female,Squats,Legs,Compound,5,Muscle Gain,24.8,Normal Weight
+79,30,168,70,Female,Shoulder Press,Shoulders,Isolation,4,Muscle Gain,24.8,Normal Weight
+80,35,172,75,Male,Leg Press,Legs,Compound,4,Muscle Gain,25.35,Overweight
+80,35,172,75,Male,Plank,Core,Compound,3,Muscle Gain,25.35,Overweight
+80,35,172,75,Male,Leg Curls,Legs,Isolation,4,Muscle Gain,25.35,Overweight
+80,35,172,75,Male,Lunges,Legs,Compound,5,Muscle Gain,25.35,Overweight
+80,35,172,75,Male,Push-ups,Chest,Compound,3,Muscle Gain,25.35,Overweight
+81,40,175,85,Female,Barbell Rows,Back,Compound,4,Muscle Gain,27.76,Overweight
+81,40,175,85,Female,Deadlift,Back,Compound,4,Muscle Gain,27.76,Overweight
+81,40,175,85,Female,Squats,Legs,Compound,5,Muscle Gain,27.76,Overweight
+81,40,175,85,Female,Bench Press,Chest,Compound,4,Muscle Gain,27.76,Overweight
+81,40,175,85,Female,Shoulder Press,Shoulders,Isolation,4,Muscle Gain,27.76,Overweight
+82,36,165,70,Female,Leg Curls,Legs,Isolation,4,Muscle Gain,25.71,Overweight
+82,36,165,70,Female,Lunges,Legs,Compound,5,Muscle Gain,25.71,Overweight
+82,36,165,70,Female,Push-ups,Chest,Compound,3,Muscle Gain,25.71,Overweight
+82,36,165,70,Female,Plank,Core,Compound,3,Muscle Gain,25.71,Overweight
+82,36,165,70,Female,Crunches,Core,Isolation,3,Muscle Gain,25.71,Overweight
+83,50,175,85,Male,Hanging Leg Raises,Core,Isolation,3,Muscle Gain,27.76,Overweight
+83,50,175,85,Male,Dips,Triceps,Compound,4,Muscle Gain,27.76,Overweight
+83,50,175,85,Male,Barbell Curls,Biceps,Isolation,3,Muscle Gain,27.76,Overweight
+83,50,175,85,Male,Leg Press,Legs,Compound,4,Muscle Gain,27.76,Overweight
+83,50,175,85,Male,Glute Bridges,Glutes,Compound,4,Muscle Gain,27.76,Overweight
+84,37,160,65,Female,Leg Press,Legs,Compound,4,Muscle Gain,25.39,Overweight
+84,37,160,65,Female,Plank,Core,Compound,3,Muscle Gain,25.39,Overweight
+84,37,160,65,Female,Leg Curls,Legs,Isolation,4,Muscle Gain,25.39,Overweight
+84,37,160,65,Female,Lunges,Legs,Compound,5,Muscle Gain,25.39,Overweight
+84,37,160,65,Female,Push-ups,Chest,Compound,3,Muscle Gain,25.39,Overweight
+85,44,170,80,Male,Plank,Core,Compound,3,Muscle Gain,27.68,Overweight
+85,44,170,80,Male,Leg Curls,Legs,Isolation,4,Muscle Gain,27.68,Overweight
+85,44,170,80,Male,Lunges,Legs,Compound,5,Muscle Gain,27.68,Overweight
+85,44,170,80,Male,Push-ups,Chest,Compound,3,Muscle Gain,27.68,Overweight
+85,44,170,80,Male,Crunches,Core,Isolation,3,Muscle Gain,27.68,Overweight
+86,30,168,70,Female,Deadlift,Back,Compound,4,Muscle Gain,24.8,Normal Weight
+86,30,168,70,Female,Barbell Rows,Back,Compound,4,Muscle Gain,24.8,Normal Weight
+86,30,168,70,Female,Bench Press,Chest,Compound,4,Muscle Gain,24.8,Normal Weight
+86,30,168,70,Female,Squats,Legs,Compound,5,Muscle Gain,24.8,Normal Weight
+86,30,168,70,Female,Shoulder Press,Shoulders,Isolation,4,Muscle Gain,24.8,Normal Weight
+87,35,172,75,Male,Leg Press,Legs,Compound,4,Muscle Gain,25.35,Overweight
+87,35,172,75,Male,Plank,Core,Compound,3,Muscle Gain,25.35,Overweight
+87,35,172,75,Male,Leg Curls,Legs,Isolation,4,Muscle Gain,25.35,Overweight
+87,35,172,75,Male,Lunges,Legs,Compound,5,Muscle Gain,25.35,Overweight
+87,35,172,75,Male,Push-ups,Chest,Compound,3,Muscle Gain,25.35,Overweight
+88,40,175,85,Female,Barbell Rows,Back,Compound,4,Muscle Gain,27.76,Overweight
+88,40,175,85,Female,Deadlift,Back,Compound,4,Muscle Gain,27.76,Overweight
+88,40,175,85,Female,Squats,Legs,Compound,5,Muscle Gain,27.76,Overweight
+88,40,175,85,Female,Bench Press,Chest,Compound,4,Muscle Gain,27.76,Overweight
+88,40,175,85,Female,Shoulder Press,Shoulders,Isolation,4,Muscle Gain,27.76,Overweight
+89,36,165,70,Female,Leg Curls,Legs,Isolation,4,Muscle Gain,25.71,Overweight
+89,36,165,70,Female,Lunges,Legs,Compound,5,Muscle Gain,25.71,Overweight
+89,36,165,70,Female,Push-ups,Chest,Compound,3,Muscle Gain,25.71,Overweight
+89,36,165,70,Female,Plank,Core,Compound,3,Muscle Gain,25.71,Overweight
+89,36,165,70,Female,Crunches,Core,Isolation,3,Muscle Gain,25.71,Overweight
+90,50,175,85,Male,Hanging Leg Raises,Core,Isolation,3,Muscle Gain,27.76,Overweight
+90,50,175,85,Male,Dips,Triceps,Compound,4,Muscle Gain,27.76,Overweight
+90,50,175,85,Male,Barbell Curls,Biceps,Isolation,3,Muscle Gain,27.76,Overweight
+90,50,175,85,Male,Leg Press,Legs,Compound,4,Muscle Gain,27.76,Overweight
+90,50,175,85,Male,Glute Bridges,Glutes,Compound,4,Muscle Gain,27.76,Overweight
+91,37,160,65,Female,Leg Press,Legs,Compound,4,Muscle Gain,25.39,Overweight
+91,37,160,65,Female,Plank,Core,Compound,3,Muscle Gain,25.39,Overweight
+91,37,160,65,Female,Leg Curls,Legs,Isolation,4,Muscle Gain,25.39,Overweight
+91,37,160,65,Female,Lunges,Legs,Compound,5,Muscle Gain,25.39,Overweight
+91,37,160,65,Female,Push-ups,Chest,Compound,3,Muscle Gain,25.39,Overweight
+92,44,170,80,Male,Plank,Core,Compound,3,Muscle Gain,27.68,Overweight
+92,44,170,80,Male,Leg Curls,Legs,Isolation,4,Muscle Gain,27.68,Overweight
+92,44,170,80,Male,Lunges,Legs,Compound,5,Muscle Gain,27.68,Overweight
+92,44,170,80,Male,Push-ups,Chest,Compound,3,Muscle Gain,27.68,Overweight
+92,44,170,80,Male,Crunches,Core,Isolation,3,Muscle Gain,27.68,Overweight
+93,30,168,70,Female,Deadlift,Back,Compound,4,Muscle Gain,24.8,Normal Weight
+93,30,168,70,Female,Barbell Rows,Back,Compound,4,Muscle Gain,24.8,Normal Weight
+93,30,168,70,Female,Bench Press,Chest,Compound,4,Muscle Gain,24.8,Normal Weight
+93,30,168,70,Female,Squats,Legs,Compound,5,Muscle Gain,24.8,Normal Weight
+93,30,168,70,Female,Shoulder Press,Shoulders,Isolation,4,Muscle Gain,24.8,Normal Weight
+94,35,172,75,Male,Leg Press,Legs,Compound,4,Muscle Gain,25.35,Overweight
+94,35,172,75,Male,Plank,Core,Compound,3,Muscle Gain,25.35,Overweight
+94,35,172,75,Male,Leg Curls,Legs,Isolation,4,Muscle Gain,25.35,Overweight
+94,35,172,75,Male,Lunges,Legs,Compound,5,Muscle Gain,25.35,Overweight
+94,35,172,75,Male,Push-ups,Chest,Compound,3,Muscle Gain,25.35,Overweight
+95,40,175,85,Female,Barbell Rows,Back,Compound,4,Muscle Gain,27.76,Overweight
+95,40,175,85,Female,Deadlift,Back,Compound,4,Muscle Gain,27.76,Overweight
+95,40,175,85,Female,Squats,Legs,Compound,5,Muscle Gain,27.76,Overweight
+95,40,175,85,Female,Bench Press,Chest,Compound,4,Muscle Gain,27.76,Overweight
+95,40,175,85,Female,Shoulder Press,Shoulders,Isolation,4,Muscle Gain,27.76,Overweight
+96,36,165,70,Female,Leg Curls,Legs,Isolation,4,Muscle Gain,25.71,Overweight
+96,36,165,70,Female,Lunges,Legs,Compound,5,Muscle Gain,25.71,Overweight
+96,36,165,70,Female,Push-ups,Chest,Compound,3,Muscle Gain,25.71,Overweight
+96,36,165,70,Female,Plank,Core,Compound,3,Muscle Gain,25.71,Overweight
+96,36,165,70,Female,Crunches,Core,Isolation,3,Muscle Gain,25.71,Overweight
+97,50,175,85,Male,Hanging Leg Raises,Core,Isolation,3,Muscle Gain,27.76,Overweight
+97,50,175,85,Male,Dips,Triceps,Compound,4,Muscle Gain,27.76,Overweight
+97,50,175,85,Male,Barbell Curls,Biceps,Isolation,3,Muscle Gain,27.76,Overweight
+97,50,175,85,Male,Leg Press,Legs,Compound,4,Muscle Gain,27.76,Overweight
+97,50,175,85,Male,Glute Bridges,Glutes,Compound,4,Muscle Gain,27.76,Overweight
+98,37,160,65,Female,Leg Press,Legs,Compound,4,Muscle Gain,25.39,Overweight
+98,37,160,65,Female,Plank,Core,Compound,3,Muscle Gain,25.39,Overweight
+98,37,160,65,Female,Leg Curls,Legs,Isolation,4,Muscle Gain,25.39,Overweight
+98,37,160,65,Female,Lunges,Legs,Compound,5,Muscle Gain,25.39,Overweight
+98,37,160,65,Female,Push-ups,Chest,Compound,3,Muscle Gain,25.39,Overweight
+99,44,170,80,Male,Plank,Core,Compound,3,Muscle Gain,27.68,Overweight
+99,44,170,80,Male,Leg Curls,Legs,Isolation,4,Muscle Gain,27.68,Overweight
+99,44,170,80,Male,Lunges,Legs,Compound,5,Muscle Gain,27.68,Overweight
+99,44,170,80,Male,Push-ups,Chest,Compound,3,Muscle Gain,27.68,Overweight
+99,44,170,80,Male,Crunches,Core,Isolation,3,Muscle Gain,27.68,Overweight
+100,30,168,70,Female,Deadlift,Back,Compound,4,Muscle Gain,24.8,Normal Weight
+100,30,168,70,Female,Barbell Rows,Back,Compound,4,Muscle Gain,24.8,Normal Weight
+100,30,168,70,Female,Bench Press,Chest,Compound,4,Muscle Gain,24.8,Normal Weight
+100,30,168,70,Female,Squats,Legs,Compound,5,Muscle Gain,24.8,Normal Weight
+100,30,168,70,Female,Shoulder Press,Shoulders,Isolation,4,Muscle Gain,24.8,Normal Weight
+101,35,172,75,Male,Leg Press,Legs,Compound,4,Muscle Gain,25.35,Overweight
+101,35,172,75,Male,Plank,Core,Compound,3,Muscle Gain,25.35,Overweight
+101,35,172,75,Male,Leg Curls,Legs,Isolation,4,Muscle Gain,25.35,Overweight
+101,35,172,75,Male,Lunges,Legs,Compound,5,Muscle Gain,25.35,Overweight
+101,35,172,75,Male,Push-ups,Chest,Compound,3,Muscle Gain,25.35,Overweight
+102,40,175,85,Female,Barbell Rows,Back,Compound,4,Muscle Gain,27.76,Overweight
+102,40,175,85,Female,Deadlift,Back,Compound,4,Muscle Gain,27.76,Overweight
+102,40,175,85,Female,Squats,Legs,Compound,5,Muscle Gain,27.76,Overweight
+102,40,175,85,Female,Bench Press,Chest,Compound,4,Muscle Gain,27.76,Overweight
+102,40,175,85,Female,Shoulder Press,Shoulders,Isolation,4,Muscle Gain,27.76,Overweight
+103,36,165,70,Female,Leg Curls,Legs,Isolation,4,Muscle Gain,25.71,Overweight
+103,36,165,70,Female,Lunges,Legs,Compound,5,Muscle Gain,25.71,Overweight
+103,36,165,70,Female,Push-ups,Chest,Compound,3,Muscle Gain,25.71,Overweight
+103,36,165,70,Female,Plank,Core,Compound,3,Muscle Gain,25.71,Overweight
+103,36,165,70,Female,Crunches,Core,Isolation,3,Muscle Gain,25.71,Overweight
+104,50,175,85,Male,Hanging Leg Raises,Core,Isolation,3,Muscle Gain,27.76,Overweight
+104,50,175,85,Male,Dips,Triceps,Compound,4,Muscle Gain,27.76,Overweight
+104,50,175,85,Male,Barbell Curls,Biceps,Isolation,3,Muscle Gain,27.76,Overweight
+104,50,175,85,Male,Leg Press,Legs,Compound,4,Muscle Gain,27.76,Overweight
+104,50,175,85,Male,Glute Bridges,Glutes,Compound,4,Muscle Gain,27.76,Overweight
+105,37,160,65,Female,Leg Press,Legs,Compound,4,Muscle Gain,25.39,Overweight
+105,37,160,65,Female,Plank,Core,Compound,3,Muscle Gain,25.39,Overweight
+105,37,160,65,Female,Leg Curls,Legs,Isolation,4,Muscle Gain,25.39,Overweight
+105,37,160,65,Female,Lunges,Legs,Compound,5,Muscle Gain,25.39,Overweight
+105,37,160,65,Female,Push-ups,Chest,Compound,3,Muscle Gain,25.39,Overweight
+106,44,170,80,Male,Plank,Core,Compound,3,Muscle Gain,27.68,Overweight
+106,44,170,80,Male,Leg Curls,Legs,Isolation,4,Muscle Gain,27.68,Overweight
+106,44,170,80,Male,Lunges,Legs,Compound,5,Muscle Gain,27.68,Overweight
+106,44,170,80,Male,Push-ups,Chest,Compound,3,Muscle Gain,27.68,Overweight
+106,44,170,80,Male,Crunches,Core,Isolation,3,Muscle Gain,27.68,Overweight
+107,30,168,70,Female,Deadlift,Back,Compound,4,Muscle Gain,24.8,Normal Weight
+107,30,168,70,Female,Barbell Rows,Back,Compound,4,Muscle Gain,24.8,Normal Weight
+107,30,168,70,Female,Bench Press,Chest,Compound,4,Muscle Gain,24.8,Normal Weight
+107,30,168,70,Female,Squats,Legs,Compound,5,Muscle Gain,24.8,Normal Weight
+107,30,168,70,Female,Shoulder Press,Shoulders,Isolation,4,Muscle Gain,24.8,Normal Weight
+108,35,172,75,Male,Leg Press,Legs,Compound,4,Muscle Gain,25.35,Overweight
+108,35,172,75,Male,Plank,Core,Compound,3,Muscle Gain,25.35,Overweight
+108,35,172,75,Male,Leg Curls,Legs,Isolation,4,Muscle Gain,25.35,Overweight
+108,35,172,75,Male,Lunges,Legs,Compound,5,Muscle Gain,25.35,Overweight
+108,35,172,75,Male,Push-ups,Chest,Compound,3,Muscle Gain,25.35,Overweight
+109,40,175,85,Female,Barbell Rows,Back,Compound,4,Muscle Gain,27.76,Overweight
+109,40,175,85,Female,Deadlift,Back,Compound,4,Muscle Gain,27.76,Overweight
+109,40,175,85,Female,Squats,Legs,Compound,5,Muscle Gain,27.76,Overweight
+109,40,175,85,Female,Bench Press,Chest,Compound,4,Muscle Gain,27.76,Overweight
+109,40,175,85,Female,Shoulder Press,Shoulders,Isolation,4,Muscle Gain,27.76,Overweight
+110,36,165,70,Female,Leg Curls,Legs,Isolation,4,Muscle Gain,25.71,Overweight
+110,36,165,70,Female,Lunges,Legs,Compound,5,Muscle Gain,25.71,Overweight
+110,36,165,70,Female,Push-ups,Chest,Compound,3,Muscle Gain,25.71,Overweight
+110,36,165,70,Female,Plank,Core,Compound,3,Muscle Gain,25.71,Overweight
+110,36,165,70,Female,Crunches,Core,Isolation,3,Muscle Gain,25.71,Overweight
+111,50,175,85,Male,Hanging Leg Raises,Core,Isolation,3,Muscle Gain,27.76,Overweight
+111,50,175,85,Male,Dips,Triceps,Compound,4,Muscle Gain,27.76,Overweight
+111,50,175,85,Male,Barbell Curls,Biceps,Isolation,3,Muscle Gain,27.76,Overweight
+111,50,175,85,Male,Leg Press,Legs,Compound,4,Muscle Gain,27.76,Overweight
+111,50,175,85,Male,Glute Bridges,Glutes,Compound,4,Muscle Gain,27.76,Overweight
+112,37,160,65,Female,Leg Press,Legs,Compound,4,Muscle Gain,25.39,Overweight
+112,37,160,65,Female,Plank,Core,Compound,3,Muscle Gain,25.39,Overweight
+112,37,160,65,Female,Leg Curls,Legs,Isolation,4,Muscle Gain,25.39,Overweight
+112,37,160,65,Female,Lunges,Legs,Compound,5,Muscle Gain,25.39,Overweight
+112,37,160,65,Female,Push-ups,Chest,Compound,3,Muscle Gain,25.39,Overweight
+113,44,170,80,Male,Plank,Core,Compound,3,Muscle Gain,27.68,Overweight
+113,44,170,80,Male,Leg Curls,Legs,Isolation,4,Muscle Gain,27.68,Overweight
+113,44,170,80,Male,Lunges,Legs,Compound,5,Muscle Gain,27.68,Overweight
+113,44,170,80,Male,Push-ups,Chest,Compound,3,Muscle Gain,27.68,Overweight
+113,44,170,80,Male,Crunches,Core,Isolation,3,Muscle Gain,27.68,Overweight
+114,30,168,70,Female,Deadlift,Back,Compound,4,Muscle Gain,24.8,Normal Weight
+114,30,168,70,Female,Barbell Rows,Back,Compound,4,Muscle Gain,24.8,Normal Weight
+114,30,168,70,Female,Bench Press,Chest,Compound,4,Muscle Gain,24.8,Normal Weight
+114,30,168,70,Female,Squats,Legs,Compound,5,Muscle Gain,24.8,Normal Weight
+114,30,168,70,Female,Shoulder Press,Shoulders,Isolation,4,Muscle Gain,24.8,Normal Weight
+115,35,172,75,Male,Leg Press,Legs,Compound,4,Muscle Gain,25.35,Overweight
+115,35,172,75,Male,Plank,Core,Compound,3,Muscle Gain,25.35,Overweight
+115,35,172,75,Male,Leg Curls,Legs,Isolation,4,Muscle Gain,25.35,Overweight
+115,35,172,75,Male,Lunges,Legs,Compound,5,Muscle Gain,25.35,Overweight
+115,35,172,75,Male,Push-ups,Chest,Compound,3,Muscle Gain,25.35,Overweight
+116,40,175,85,Female,Barbell Rows,Back,Compound,4,Muscle Gain,27.76,Overweight
+116,40,175,85,Female,Deadlift,Back,Compound,4,Muscle Gain,27.76,Overweight
+116,40,175,85,Female,Squats,Legs,Compound,5,Muscle Gain,27.76,Overweight
+116,40,175,85,Female,Bench Press,Chest,Compound,4,Muscle Gain,27.76,Overweight
+116,40,175,85,Female,Shoulder Press,Shoulders,Isolation,4,Muscle Gain,27.76,Overweight
+117,36,165,70,Female,Leg Curls,Legs,Isolation,4,Muscle Gain,25.71,Overweight
+117,36,165,70,Female,Lunges,Legs,Compound,5,Muscle Gain,25.71,Overweight
+117,36,165,70,Female,Push-ups,Chest,Compound,3,Muscle Gain,25.71,Overweight
+117,36,165,70,Female,Plank,Core,Compound,3,Muscle Gain,25.71,Overweight
+117,36,165,70,Female,Crunches,Core,Isolation,3,Muscle Gain,25.71,Overweight
+118,50,175,85,Male,Hanging Leg Raises,Core,Isolation,3,Muscle Gain,27.76,Overweight
+118,50,175,85,Male,Dips,Triceps,Compound,4,Muscle Gain,27.76,Overweight
+118,50,175,85,Male,Barbell Curls,Biceps,Isolation,3,Muscle Gain,27.76,Overweight
+118,50,175,85,Male,Leg Press,Legs,Compound,4,Muscle Gain,27.76,Overweight
+118,50,175,85,Male,Glute Bridges,Glutes,Compound,4,Muscle Gain,27.76,Overweight
+119,37,160,65,Female,Leg Press,Legs,Compound,4,Muscle Gain,25.39,Overweight
+119,37,160,65,Female,Plank,Core,Compound,3,Muscle Gain,25.39,Overweight
+119,37,160,65,Female,Leg Curls,Legs,Isolation,4,Muscle Gain,25.39,Overweight
+119,37,160,65,Female,Lunges,Legs,Compound,5,Muscle Gain,25.39,Overweight
+119,37,160,65,Female,Push-ups,Chest,Compound,3,Muscle Gain,25.39,Overweight
+120,44,170,80,Male,Plank,Core,Compound,3,Muscle Gain,27.68,Overweight
+120,44,170,80,Male,Leg Curls,Legs,Isolation,4,Muscle Gain,27.68,Overweight
+120,44,170,80,Male,Lunges,Legs,Compound,5,Muscle Gain,27.68,Overweight
+120,44,170,80,Male,Push-ups,Chest,Compound,3,Muscle Gain,27.68,Overweight
+120,44,170,80,Male,Crunches,Core,Isolation,3,Muscle Gain,27.68,Overweight
+121,30,168,70,Female,Deadlift,Back,Compound,4,Muscle Gain,24.8,Normal Weight
+121,30,168,70,Female,Barbell Rows,Back,Compound,4,Muscle Gain,24.8,Normal Weight
+121,30,168,70,Female,Bench Press,Chest,Compound,4,Muscle Gain,24.8,Normal Weight
+121,30,168,70,Female,Squats,Legs,Compound,5,Muscle Gain,24.8,Normal Weight
+121,30,168,70,Female,Shoulder Press,Shoulders,Isolation,4,Muscle Gain,24.8,Normal Weight
+122,35,172,75,Male,Leg Press,Legs,Compound,4,Muscle Gain,25.35,Overweight
+122,35,172,75,Male,Plank,Core,Compound,3,Muscle Gain,25.35,Overweight
+122,35,172,75,Male,Leg Curls,Legs,Isolation,4,Muscle Gain,25.35,Overweight
+122,35,172,75,Male,Lunges,Legs,Compound,5,Muscle Gain,25.35,Overweight
+122,35,172,75,Male,Push-ups,Chest,Compound,3,Muscle Gain,25.35,Overweight
+123,40,175,85,Female,Barbell Rows,Back,Compound,4,Muscle Gain,27.76,Overweight
+123,40,175,85,Female,Deadlift,Back,Compound,4,Muscle Gain,27.76,Overweight
+123,40,175,85,Female,Squats,Legs,Compound,5,Muscle Gain,27.76,Overweight
+123,40,175,85,Female,Bench Press,Chest,Compound,4,Muscle Gain,27.76,Overweight
+123,40,175,85,Female,Shoulder Press,Shoulders,Isolation,4,Muscle Gain,27.76,Overweight
+124,36,165,70,Female,Leg Curls,Legs,Isolation,4,Muscle Gain,25.71,Overweight
+124,36,165,70,Female,Lunges,Legs,Compound,5,Muscle Gain,25.71,Overweight
+124,36,165,70,Female,Push-ups,Chest,Compound,3,Muscle Gain,25.71,Overweight
+124,36,165,70,Female,Plank,Core,Compound,3,Muscle Gain,25.71,Overweight
+124,36,165,70,Female,Crunches,Core,Isolation,3,Muscle Gain,25.71,Overweight
+125,50,175,85,Male,Hanging Leg Raises,Core,Isolation,3,Muscle Gain,27.76,Overweight
+125,50,175,85,Male,Dips,Triceps,Compound,4,Muscle Gain,27.76,Overweight
+125,50,175,85,Male,Barbell Curls,Biceps,Isolation,3,Muscle Gain,27.76,Overweight
+125,50,175,85,Male,Leg Press,Legs,Compound,4,Muscle Gain,27.76,Overweight
+125,50,175,85,Male,Glute Bridges,Glutes,Compound,4,Muscle Gain,27.76,Overweight
+126,37,160,65,Female,Leg Press,Legs,Compound,4,Muscle Gain,25.39,Overweight
+126,37,160,65,Female,Plank,Core,Compound,3,Muscle Gain,25.39,Overweight
+126,37,160,65,Female,Leg Curls,Legs,Isolation,4,Muscle Gain,25.39,Overweight
+126,37,160,65,Female,Lunges,Legs,Compound,5,Muscle Gain,25.39,Overweight
+126,37,160,65,Female,Push-ups,Chest,Compound,3,Muscle Gain,25.39,Overweight
+127,44,170,80,Male,Plank,Core,Compound,3,Muscle Gain,27.68,Overweight
+127,44,170,80,Male,Leg Curls,Legs,Isolation,4,Muscle Gain,27.68,Overweight
+127,44,170,80,Male,Lunges,Legs,Compound,5,Muscle Gain,27.68,Overweight
+127,44,170,80,Male,Push-ups,Chest,Compound,3,Muscle Gain,27.68,Overweight
+127,44,170,80,Male,Crunches,Core,Isolation,3,Muscle Gain,27.68,Overweight
+128,30,168,70,Female,Deadlift,Back,Compound,4,Muscle Gain,24.8,Normal Weight
+128,30,168,70,Female,Barbell Rows,Back,Compound,4,Muscle Gain,24.8,Normal Weight
+128,30,168,70,Female,Bench Press,Chest,Compound,4,Muscle Gain,24.8,Normal Weight
+128,30,168,70,Female,Squats,Legs,Compound,5,Muscle Gain,24.8,Normal Weight
+128,30,168,70,Female,Shoulder Press,Shoulders,Isolation,4,Muscle Gain,24.8,Normal Weight
+129,35,172,75,Male,Leg Press,Legs,Compound,4,Muscle Gain,25.35,Overweight
+129,35,172,75,Male,Plank,Core,Compound,3,Muscle Gain,25.35,Overweight
+129,35,172,75,Male,Leg Curls,Legs,Isolation,4,Muscle Gain,25.35,Overweight
+129,35,172,75,Male,Lunges,Legs,Compound,5,Muscle Gain,25.35,Overweight
+129,35,172,75,Male,Push-ups,Chest,Compound,3,Muscle Gain,25.35,Overweight
+130,40,175,85,Female,Barbell Rows,Back,Compound,4,Muscle Gain,27.76,Overweight
+130,40,175,85,Female,Deadlift,Back,Compound,4,Muscle Gain,27.76,Overweight
+130,40,175,85,Female,Squats,Legs,Compound,5,Muscle Gain,27.76,Overweight
+130,40,175,85,Female,Bench Press,Chest,Compound,4,Muscle Gain,27.76,Overweight
+130,40,175,85,Female,Shoulder Press,Shoulders,Isolation,4,Muscle Gain,27.76,Overweight
+131,36,165,70,Female,Leg Curls,Legs,Isolation,4,Muscle Gain,25.71,Overweight
+131,36,165,70,Female,Lunges,Legs,Compound,5,Muscle Gain,25.71,Overweight
+131,36,165,70,Female,Push-ups,Chest,Compound,3,Muscle Gain,25.71,Overweight
+131,36,165,70,Female,Plank,Core,Compound,3,Muscle Gain,25.71,Overweight
+131,36,165,70,Female,Crunches,Core,Isolation,3,Muscle Gain,25.71,Overweight
+132,50,175,85,Male,Hanging Leg Raises,Core,Isolation,3,Muscle Gain,27.76,Overweight
+132,50,175,85,Male,Dips,Triceps,Compound,4,Muscle Gain,27.76,Overweight
+132,50,175,85,Male,Barbell Curls,Biceps,Isolation,3,Muscle Gain,27.76,Overweight
+132,50,175,85,Male,Leg Press,Legs,Compound,4,Muscle Gain,27.76,Overweight
+132,50,175,85,Male,Glute Bridges,Glutes,Compound,4,Muscle Gain,27.76,Overweight
+133,37,160,65,Female,Leg Press,Legs,Compound,4,Muscle Gain,25.39,Overweight
+133,37,160,65,Female,Plank,Core,Compound,3,Muscle Gain,25.39,Overweight
+133,37,160,65,Female,Leg Curls,Legs,Isolation,4,Muscle Gain,25.39,Overweight
+133,37,160,65,Female,Lunges,Legs,Compound,5,Muscle Gain,25.39,Overweight
+133,37,160,65,Female,Push-ups,Chest,Compound,3,Muscle Gain,25.39,Overweight
+134,44,170,80,Male,Plank,Core,Compound,3,Muscle Gain,27.68,Overweight
+134,44,170,80,Male,Leg Curls,Legs,Isolation,4,Muscle Gain,27.68,Overweight
+134,44,170,80,Male,Lunges,Legs,Compound,5,Muscle Gain,27.68,Overweight
+134,44,170,80,Male,Push-ups,Chest,Compound,3,Muscle Gain,27.68,Overweight
+134,44,170,80,Male,Crunches,Core,Isolation,3,Muscle Gain,27.68,Overweight
+135,30,168,70,Female,Deadlift,Back,Compound,4,Muscle Gain,24.8,Normal Weight
+135,30,168,70,Female,Barbell Rows,Back,Compound,4,Muscle Gain,24.8,Normal Weight
+135,30,168,70,Female,Bench Press,Chest,Compound,4,Muscle Gain,24.8,Normal Weight
+135,30,168,70,Female,Squats,Legs,Compound,5,Muscle Gain,24.8,Normal Weight
+135,30,168,70,Female,Shoulder Press,Shoulders,Isolation,4,Muscle Gain,24.8,Normal Weight
+136,35,172,75,Male,Leg Press,Legs,Compound,4,Muscle Gain,25.35,Overweight
+136,35,172,75,Male,Plank,Core,Compound,3,Muscle Gain,25.35,Overweight
+136,35,172,75,Male,Leg Curls,Legs,Isolation,4,Muscle Gain,25.35,Overweight
+136,35,172,75,Male,Lunges,Legs,Compound,5,Muscle Gain,25.35,Overweight
+136,35,172,75,Male,Push-ups,Chest,Compound,3,Muscle Gain,25.35,Overweight
+137,40,175,85,Female,Barbell Rows,Back,Compound,4,Muscle Gain,27.76,Overweight
+137,40,175,85,Female,Deadlift,Back,Compound,4,Muscle Gain,27.76,Overweight
+137,40,175,85,Female,Squats,Legs,Compound,5,Muscle Gain,27.76,Overweight
+137,40,175,85,Female,Bench Press,Chest,Compound,4,Muscle Gain,27.76,Overweight
+137,40,175,85,Female,Shoulder Press,Shoulders,Isolation,4,Muscle Gain,27.76,Overweight
+138,36,165,70,Female,Leg Curls,Legs,Isolation,4,Muscle Gain,25.71,Overweight
+138,36,165,70,Female,Lunges,Legs,Compound,5,Muscle Gain,25.71,Overweight
+138,36,165,70,Female,Push-ups,Chest,Compound,3,Muscle Gain,25.71,Overweight
+138,36,165,70,Female,Plank,Core,Compound,3,Muscle Gain,25.71,Overweight
+138,36,165,70,Female,Crunches,Core,Isolation,3,Muscle Gain,25.71,Overweight
+139,50,175,85,Male,Hanging Leg Raises,Core,Isolation,3,Muscle Gain,27.76,Overweight
+139,50,175,85,Male,Dips,Triceps,Compound,4,Muscle Gain,27.76,Overweight
+139,50,175,85,Male,Barbell Curls,Biceps,Isolation,3,Muscle Gain,27.76,Overweight
+139,50,175,85,Male,Leg Press,Legs,Compound,4,Muscle Gain,27.76,Overweight
+139,50,175,85,Male,Glute Bridges,Glutes,Compound,4,Muscle Gain,27.76,Overweight
+140,37,160,65,Female,Leg Press,Legs,Compound,4,Muscle Gain,25.39,Overweight
+140,37,160,65,Female,Plank,Core,Compound,3,Muscle Gain,25.39,Overweight
+140,37,160,65,Female,Leg Curls,Legs,Isolation,4,Muscle Gain,25.39,Overweight
+140,37,160,65,Female,Lunges,Legs,Compound,5,Muscle Gain,25.39,Overweight
+140,37,160,65,Female,Push-ups,Chest,Compound,3,Muscle Gain,25.39,Overweight
+141,44,170,80,Male,Plank,Core,Compound,3,Muscle Gain,27.68,Overweight
+141,44,170,80,Male,Leg Curls,Legs,Isolation,4,Muscle Gain,27.68,Overweight
+141,44,170,80,Male,Lunges,Legs,Compound,5,Muscle Gain,27.68,Overweight
+141,44,170,80,Male,Push-ups,Chest,Compound,3,Muscle Gain,27.68,Overweight
+141,44,170,80,Male,Crunches,Core,Isolation,3,Muscle Gain,27.68,Overweight
+142,30,168,70,Female,Deadlift,Back,Compound,4,Muscle Gain,24.8,Normal Weight
+142,30,168,70,Female,Barbell Rows,Back,Compound,4,Muscle Gain,24.8,Normal Weight
+142,30,168,70,Female,Bench Press,Chest,Compound,4,Muscle Gain,24.8,Normal Weight
+142,30,168,70,Female,Squats,Legs,Compound,5,Muscle Gain,24.8,Normal Weight
+142,30,168,70,Female,Shoulder Press,Shoulders,Isolation,4,Muscle Gain,24.8,Normal Weight
+143,35,172,75,Male,Leg Press,Legs,Compound,4,Muscle Gain,25.35,Overweight
+143,35,172,75,Male,Plank,Core,Compound,3,Muscle Gain,25.35,Overweight
+143,35,172,75,Male,Leg Curls,Legs,Isolation,4,Muscle Gain,25.35,Overweight
+143,35,172,75,Male,Lunges,Legs,Compound,5,Muscle Gain,25.35,Overweight
+143,35,172,75,Male,Push-ups,Chest,Compound,3,Muscle Gain,25.35,Overweight
+144,40,175,85,Female,Barbell Rows,Back,Compound,4,Muscle Gain,27.76,Overweight
+144,40,175,85,Female,Deadlift,Back,Compound,4,Muscle Gain,27.76,Overweight
+144,40,175,85,Female,Squats,Legs,Compound,5,Muscle Gain,27.76,Overweight
+144,40,175,85,Female,Bench Press,Chest,Compound,4,Muscle Gain,27.76,Overweight
+144,40,175,85,Female,Shoulder Press,Shoulders,Isolation,4,Muscle Gain,27.76,Overweight
+145,36,165,70,Female,Leg Curls,Legs,Isolation,4,Muscle Gain,25.71,Overweight
+145,36,165,70,Female,Lunges,Legs,Compound,5,Muscle Gain,25.71,Overweight
+145,36,165,70,Female,Push-ups,Chest,Compound,3,Muscle Gain,25.71,Overweight
+145,36,165,70,Female,Plank,Core,Compound,3,Muscle Gain,25.71,Overweight
+145,36,165,70,Female,Crunches,Core,Isolation,3,Muscle Gain,25.71,Overweight
+146,50,175,85,Male,Hanging Leg Raises,Core,Isolation,3,Muscle Gain,27.76,Overweight
+146,50,175,85,Male,Dips,Triceps,Compound,4,Muscle Gain,27.76,Overweight
+146,50,175,85,Male,Barbell Curls,Biceps,Isolation,3,Muscle Gain,27.76,Overweight
+146,50,175,85,Male,Leg Press,Legs,Compound,4,Muscle Gain,27.76,Overweight
+146,50,175,85,Male,Glute Bridges,Glutes,Compound,4,Muscle Gain,27.76,Overweight
+147,37,160,65,Female,Leg Press,Legs,Compound,4,Muscle Gain,25.39,Overweight
+147,37,160,65,Female,Plank,Core,Compound,3,Muscle Gain,25.39,Overweight
+147,37,160,65,Female,Leg Curls,Legs,Isolation,4,Muscle Gain,25.39,Overweight
+147,37,160,65,Female,Lunges,Legs,Compound,5,Muscle Gain,25.39,Overweight
+147,37,160,65,Female,Push-ups,Chest,Compound,3,Muscle Gain,25.39,Overweight
+148,44,170,80,Male,Plank,Core,Compound,3,Muscle Gain,27.68,Overweight
+148,44,170,80,Male,Leg Curls,Legs,Isolation,4,Muscle Gain,27.68,Overweight
+148,44,170,80,Male,Lunges,Legs,Compound,5,Muscle Gain,27.68,Overweight
+148,44,170,80,Male,Push-ups,Chest,Compound,3,Muscle Gain,27.68,Overweight
+148,44,170,80,Male,Crunches,Core,Isolation,3,Muscle Gain,27.68,Overweight
+149,30,168,70,Female,Deadlift,Back,Compound,4,Muscle Gain,24.8,Normal Weight
+149,30,168,70,Female,Barbell Rows,Back,Compound,4,Muscle Gain,24.8,Normal Weight
+149,30,168,70,Female,Bench Press,Chest,Compound,4,Muscle Gain,24.8,Normal Weight
+149,30,168,70,Female,Squats,Legs,Compound,5,Muscle Gain,24.8,Normal Weight
+149,30,168,70,Female,Shoulder Press,Shoulders,Isolation,4,Muscle Gain,24.8,Normal Weight
+150,35,172,75,Male,Leg Press,Legs,Compound,4,Muscle Gain,25.35,Overweight
+150,35,172,75,Male,Plank,Core,Compound,3,Muscle Gain,25.35,Overweight
+150,35,172,75,Male,Leg Curls,Legs,Isolation,4,Muscle Gain,25.35,Overweight
+150,35,172,75,Male,Lunges,Legs,Compound,5,Muscle Gain,25.35,Overweight
+150,35,172,75,Male,Push-ups,Chest,Compound,3,Muscle Gain,25.35,Overweight
+151,40,175,85,Female,Barbell Rows,Back,Compound,4,Muscle Gain,27.76,Overweight
+151,40,175,85,Female,Deadlift,Back,Compound,4,Muscle Gain,27.76,Overweight
+151,40,175,85,Female,Squats,Legs,Compound,5,Muscle Gain,27.76,Overweight
+151,40,175,85,Female,Bench Press,Chest,Compound,4,Muscle Gain,27.76,Overweight
+151,40,175,85,Female,Shoulder Press,Shoulders,Isolation,4,Muscle Gain,27.76,Overweight
+152,36,165,70,Female,Leg Curls,Legs,Isolation,4,Muscle Gain,25.71,Overweight
+152,36,165,70,Female,Lunges,Legs,Compound,5,Muscle Gain,25.71,Overweight
+152,36,165,70,Female,Push-ups,Chest,Compound,3,Muscle Gain,25.71,Overweight
+152,36,165,70,Female,Plank,Core,Compound,3,Muscle Gain,25.71,Overweight
+152,36,165,70,Female,Crunches,Core,Isolation,3,Muscle Gain,25.71,Overweight
+153,50,175,85,Male,Hanging Leg Raises,Core,Isolation,3,Muscle Gain,27.76,Overweight
+153,50,175,85,Male,Dips,Triceps,Compound,4,Muscle Gain,27.76,Overweight
+153,50,175,85,Male,Barbell Curls,Biceps,Isolation,3,Muscle Gain,27.76,Overweight
+153,50,175,85,Male,Leg Press,Legs,Compound,4,Muscle Gain,27.76,Overweight
+153,50,175,85,Male,Glute Bridges,Glutes,Compound,4,Muscle Gain,27.76,Overweight
+154,37,160,65,Female,Leg Press,Legs,Compound,4,Muscle Gain,25.39,Overweight
+154,37,160,65,Female,Plank,Core,Compound,3,Muscle Gain,25.39,Overweight
+154,37,160,65,Female,Leg Curls,Legs,Isolation,4,Muscle Gain,25.39,Overweight
+154,37,160,65,Female,Lunges,Legs,Compound,5,Muscle Gain,25.39,Overweight
+154,37,160,65,Female,Push-ups,Chest,Compound,3,Muscle Gain,25.39,Overweight
+155,44,170,80,Male,Plank,Core,Compound,3,Muscle Gain,27.68,Overweight
+155,44,170,80,Male,Leg Curls,Legs,Isolation,4,Muscle Gain,27.68,Overweight
+155,44,170,80,Male,Lunges,Legs,Compound,5,Muscle Gain,27.68,Overweight
+155,44,170,80,Male,Push-ups,Chest,Compound,3,Muscle Gain,27.68,Overweight
+155,44,170,80,Male,Crunches,Core,Isolation,3,Muscle Gain,27.68,Overweight
+156,30,168,70,Female,Deadlift,Back,Compound,4,Muscle Gain,24.8,Normal Weight
+156,30,168,70,Female,Barbell Rows,Back,Compound,4,Muscle Gain,24.8,Normal Weight
+156,30,168,70,Female,Bench Press,Chest,Compound,4,Muscle Gain,24.8,Normal Weight
+156,30,168,70,Female,Squats,Legs,Compound,5,Muscle Gain,24.8,Normal Weight
+156,30,168,70,Female,Shoulder Press,Shoulders,Isolation,4,Muscle Gain,24.8,Normal Weight
+157,35,172,75,Male,Leg Press,Legs,Compound,4,Muscle Gain,25.35,Overweight
+157,35,172,75,Male,Plank,Core,Compound,3,Muscle Gain,25.35,Overweight
+157,35,172,75,Male,Leg Curls,Legs,Isolation,4,Muscle Gain,25.35,Overweight
+157,35,172,75,Male,Lunges,Legs,Compound,5,Muscle Gain,25.35,Overweight
+157,35,172,75,Male,Push-ups,Chest,Compound,3,Muscle Gain,25.35,Overweight
+158,40,175,85,Female,Barbell Rows,Back,Compound,4,Muscle Gain,27.76,Overweight
+158,40,175,85,Female,Deadlift,Back,Compound,4,Muscle Gain,27.76,Overweight
+158,40,175,85,Female,Squats,Legs,Compound,5,Muscle Gain,27.76,Overweight
+158,40,175,85,Female,Bench Press,Chest,Compound,4,Muscle Gain,27.76,Overweight
+158,40,175,85,Female,Shoulder Press,Shoulders,Isolation,4,Muscle Gain,27.76,Overweight
+159,36,165,70,Female,Leg Curls,Legs,Isolation,4,Muscle Gain,25.71,Overweight
+159,36,165,70,Female,Lunges,Legs,Compound,5,Muscle Gain,25.71,Overweight
+159,36,165,70,Female,Push-ups,Chest,Compound,3,Muscle Gain,25.71,Overweight
+159,36,165,70,Female,Plank,Core,Compound,3,Muscle Gain,25.71,Overweight
+159,36,165,70,Female,Crunches,Core,Isolation,3,Muscle Gain,25.71,Overweight
+160,50,175,85,Male,Hanging Leg Raises,Core,Isolation,3,Muscle Gain,27.76,Overweight
+160,50,175,85,Male,Dips,Triceps,Compound,4,Muscle Gain,27.76,Overweight
+160,50,175,85,Male,Barbell Curls,Biceps,Isolation,3,Muscle Gain,27.76,Overweight
+160,50,175,85,Male,Leg Press,Legs,Compound,4,Muscle Gain,27.76,Overweight
+160,50,175,85,Male,Glute Bridges,Glutes,Compound,4,Muscle Gain,27.76,Overweight
+161,37,160,65,Female,Leg Press,Legs,Compound,4,Muscle Gain,25.39,Overweight
+161,37,160,65,Female,Plank,Core,Compound,3,Muscle Gain,25.39,Overweight
+161,37,160,65,Female,Leg Curls,Legs,Isolation,4,Muscle Gain,25.39,Overweight
+161,37,160,65,Female,Lunges,Legs,Compound,5,Muscle Gain,25.39,Overweight
+161,37,160,65,Female,Push-ups,Chest,Compound,3,Muscle Gain,25.39,Overweight
+162,44,170,80,Male,Plank,Core,Compound,3,Muscle Gain,27.68,Overweight
+162,44,170,80,Male,Leg Curls,Legs,Isolation,4,Muscle Gain,27.68,Overweight
+162,44,170,80,Male,Lunges,Legs,Compound,5,Muscle Gain,27.68,Overweight
+162,44,170,80,Male,Push-ups,Chest,Compound,3,Muscle Gain,27.68,Overweight
+162,44,170,80,Male,Crunches,Core,Isolation,3,Muscle Gain,27.68,Overweight
+163,30,168,70,Female,Deadlift,Back,Compound,4,Muscle Gain,24.8,Normal Weight
+163,30,168,70,Female,Barbell Rows,Back,Compound,4,Muscle Gain,24.8,Normal Weight
+163,30,168,70,Female,Bench Press,Chest,Compound,4,Muscle Gain,24.8,Normal Weight
+163,30,168,70,Female,Squats,Legs,Compound,5,Muscle Gain,24.8,Normal Weight
+163,30,168,70,Female,Shoulder Press,Shoulders,Isolation,4,Muscle Gain,24.8,Normal Weight
+164,35,172,75,Male,Leg Press,Legs,Compound,4,Muscle Gain,25.35,Overweight
+164,35,172,75,Male,Plank,Core,Compound,3,Muscle Gain,25.35,Overweight
+164,35,172,75,Male,Leg Curls,Legs,Isolation,4,Muscle Gain,25.35,Overweight
+164,35,172,75,Male,Lunges,Legs,Compound,5,Muscle Gain,25.35,Overweight
+164,35,172,75,Male,Push-ups,Chest,Compound,3,Muscle Gain,25.35,Overweight
+165,40,175,85,Female,Barbell Rows,Back,Compound,4,Muscle Gain,27.76,Overweight
+165,40,175,85,Female,Deadlift,Back,Compound,4,Muscle Gain,27.76,Overweight
+165,40,175,85,Female,Squats,Legs,Compound,5,Muscle Gain,27.76,Overweight
+165,40,175,85,Female,Bench Press,Chest,Compound,4,Muscle Gain,27.76,Overweight
+165,40,175,85,Female,Shoulder Press,Shoulders,Isolation,4,Muscle Gain,27.76,Overweight
+166,36,165,70,Female,Leg Curls,Legs,Isolation,4,Muscle Gain,25.71,Overweight
+166,36,165,70,Female,Lunges,Legs,Compound,5,Muscle Gain,25.71,Overweight
+166,36,165,70,Female,Push-ups,Chest,Compound,3,Muscle Gain,25.71,Overweight
+166,36,165,70,Female,Plank,Core,Compound,3,Muscle Gain,25.71,Overweight
+166,36,165,70,Female,Crunches,Core,Isolation,3,Muscle Gain,25.71,Overweight
+167,50,175,85,Male,Hanging Leg Raises,Core,Isolation,3,Muscle Gain,27.76,Overweight
+167,50,175,85,Male,Dips,Triceps,Compound,4,Muscle Gain,27.76,Overweight
+167,50,175,85,Male,Barbell Curls,Biceps,Isolation,3,Muscle Gain,27.76,Overweight
+167,50,175,85,Male,Leg Press,Legs,Compound,4,Muscle Gain,27.76,Overweight
+167,50,175,85,Male,Glute Bridges,Glutes,Compound,4,Muscle Gain,27.76,Overweight
+168,37,160,65,Female,Leg Press,Legs,Compound,4,Muscle Gain,25.39,Overweight
+168,37,160,65,Female,Plank,Core,Compound,3,Muscle Gain,25.39,Overweight
+168,37,160,65,Female,Leg Curls,Legs,Isolation,4,Muscle Gain,25.39,Overweight
+168,37,160,65,Female,Lunges,Legs,Compound,5,Muscle Gain,25.39,Overweight
+168,37,160,65,Female,Push-ups,Chest,Compound,3,Muscle Gain,25.39,Overweight
+169,44,170,80,Male,Plank,Core,Compound,3,Muscle Gain,27.68,Overweight
+169,44,170,80,Male,Leg Curls,Legs,Isolation,4,Muscle Gain,27.68,Overweight
+169,44,170,80,Male,Lunges,Legs,Compound,5,Muscle Gain,27.68,Overweight
+169,44,170,80,Male,Push-ups,Chest,Compound,3,Muscle Gain,27.68,Overweight
+169,44,170,80,Male,Crunches,Core,Isolation,3,Muscle Gain,27.68,Overweight
+170,30,168,70,Female,Deadlift,Back,Compound,4,Muscle Gain,24.8,Normal Weight
+170,30,168,70,Female,Barbell Rows,Back,Compound,4,Muscle Gain,24.8,Normal Weight
+170,30,168,70,Female,Bench Press,Chest,Compound,4,Muscle Gain,24.8,Normal Weight
+170,30,168,70,Female,Squats,Legs,Compound,5,Muscle Gain,24.8,Normal Weight
+170,30,168,70,Female,Shoulder Press,Shoulders,Isolation,4,Muscle Gain,24.8,Normal Weight
+171,35,172,75,Male,Leg Press,Legs,Compound,4,Muscle Gain,25.35,Overweight
+171,35,172,75,Male,Plank,Core,Compound,3,Muscle Gain,25.35,Overweight
+171,35,172,75,Male,Leg Curls,Legs,Isolation,4,Muscle Gain,25.35,Overweight
+171,35,172,75,Male,Lunges,Legs,Compound,5,Muscle Gain,25.35,Overweight
+171,35,172,75,Male,Push-ups,Chest,Compound,3,Muscle Gain,25.35,Overweight
+172,40,175,85,Female,Barbell Rows,Back,Compound,4,Muscle Gain,27.76,Overweight
+172,40,175,85,Female,Deadlift,Back,Compound,4,Muscle Gain,27.76,Overweight
+172,40,175,85,Female,Squats,Legs,Compound,5,Muscle Gain,27.76,Overweight
+172,40,175,85,Female,Bench Press,Chest,Compound,4,Muscle Gain,27.76,Overweight
+172,40,175,85,Female,Shoulder Press,Shoulders,Isolation,4,Muscle Gain,27.76,Overweight
+173,36,165,70,Female,Leg Curls,Legs,Isolation,4,Muscle Gain,25.71,Overweight
+173,36,165,70,Female,Lunges,Legs,Compound,5,Muscle Gain,25.71,Overweight
+173,36,165,70,Female,Push-ups,Chest,Compound,3,Muscle Gain,25.71,Overweight
+173,36,165,70,Female,Plank,Core,Compound,3,Muscle Gain,25.71,Overweight
+173,36,165,70,Female,Crunches,Core,Isolation,3,Muscle Gain,25.71,Overweight
+174,50,175,85,Male,Hanging Leg Raises,Core,Isolation,3,Muscle Gain,27.76,Overweight
+174,50,175,85,Male,Dips,Triceps,Compound,4,Muscle Gain,27.76,Overweight
+174,50,175,85,Male,Barbell Curls,Biceps,Isolation,3,Muscle Gain,27.76,Overweight
+174,50,175,85,Male,Leg Press,Legs,Compound,4,Muscle Gain,27.76,Overweight
+174,50,175,85,Male,Glute Bridges,Glutes,Compound,4,Muscle Gain,27.76,Overweight
+175,37,160,65,Female,Leg Press,Legs,Compound,4,Muscle Gain,25.39,Overweight
+175,37,160,65,Female,Plank,Core,Compound,3,Muscle Gain,25.39,Overweight
+175,37,160,65,Female,Leg Curls,Legs,Isolation,4,Muscle Gain,25.39,Overweight
+175,37,160,65,Female,Lunges,Legs,Compound,5,Muscle Gain,25.39,Overweight
+175,37,160,65,Female,Push-ups,Chest,Compound,3,Muscle Gain,25.39,Overweight
+176,44,170,80,Male,Plank,Core,Compound,3,Muscle Gain,27.68,Overweight
+176,44,170,80,Male,Leg Curls,Legs,Isolation,4,Muscle Gain,27.68,Overweight
+176,44,170,80,Male,Lunges,Legs,Compound,5,Muscle Gain,27.68,Overweight
+176,44,170,80,Male,Push-ups,Chest,Compound,3,Muscle Gain,27.68,Overweight
+176,44,170,80,Male,Crunches,Core,Isolation,3,Muscle Gain,27.68,Overweight
+177,30,168,70,Female,Deadlift,Back,Compound,4,Muscle Gain,24.8,Normal Weight
+177,30,168,70,Female,Barbell Rows,Back,Compound,4,Muscle Gain,24.8,Normal Weight
+177,30,168,70,Female,Bench Press,Chest,Compound,4,Muscle Gain,24.8,Normal Weight
+177,30,168,70,Female,Squats,Legs,Compound,5,Muscle Gain,24.8,Normal Weight
+177,30,168,70,Female,Shoulder Press,Shoulders,Isolation,4,Muscle Gain,24.8,Normal Weight
+178,35,172,75,Male,Leg Press,Legs,Compound,4,Muscle Gain,25.35,Overweight
+178,35,172,75,Male,Plank,Core,Compound,3,Muscle Gain,25.35,Overweight
+178,35,172,75,Male,Leg Curls,Legs,Isolation,4,Muscle Gain,25.35,Overweight
+178,35,172,75,Male,Lunges,Legs,Compound,5,Muscle Gain,25.35,Overweight
+178,35,172,75,Male,Push-ups,Chest,Compound,3,Muscle Gain,25.35,Overweight
+179,40,175,85,Female,Barbell Rows,Back,Compound,4,Muscle Gain,27.76,Overweight
+179,40,175,85,Female,Deadlift,Back,Compound,4,Muscle Gain,27.76,Overweight
+179,40,175,85,Female,Squats,Legs,Compound,5,Muscle Gain,27.76,Overweight
+179,40,175,85,Female,Bench Press,Chest,Compound,4,Muscle Gain,27.76,Overweight
+179,40,175,85,Female,Shoulder Press,Shoulders,Isolation,4,Muscle Gain,27.76,Overweight
+180,36,165,70,Female,Leg Curls,Legs,Isolation,4,Muscle Gain,25.71,Overweight
+180,36,165,70,Female,Lunges,Legs,Compound,5,Muscle Gain,25.71,Overweight
+180,36,165,70,Female,Push-ups,Chest,Compound,3,Muscle Gain,25.71,Overweight
+180,36,165,70,Female,Plank,Core,Compound,3,Muscle Gain,25.71,Overweight
+180,36,165,70,Female,Crunches,Core,Isolation,3,Muscle Gain,25.71,Overweight
+181,50,175,85,Male,Hanging Leg Raises,Core,Isolation,3,Muscle Gain,27.76,Overweight
+181,50,175,85,Male,Dips,Triceps,Compound,4,Muscle Gain,27.76,Overweight
+181,50,175,85,Male,Barbell Curls,Biceps,Isolation,3,Muscle Gain,27.76,Overweight
+181,50,175,85,Male,Leg Press,Legs,Compound,4,Muscle Gain,27.76,Overweight
+181,50,175,85,Male,Glute Bridges,Glutes,Compound,4,Muscle Gain,27.76,Overweight
+182,37,160,65,Female,Leg Press,Legs,Compound,4,Muscle Gain,25.39,Overweight
+182,37,160,65,Female,Plank,Core,Compound,3,Muscle Gain,25.39,Overweight
+182,37,160,65,Female,Leg Curls,Legs,Isolation,4,Muscle Gain,25.39,Overweight
+182,37,160,65,Female,Lunges,Legs,Compound,5,Muscle Gain,25.39,Overweight
+182,37,160,65,Female,Push-ups,Chest,Compound,3,Muscle Gain,25.39,Overweight
+183,44,170,80,Male,Plank,Core,Compound,3,Muscle Gain,27.68,Overweight
+183,44,170,80,Male,Leg Curls,Legs,Isolation,4,Muscle Gain,27.68,Overweight
+183,44,170,80,Male,Lunges,Legs,Compound,5,Muscle Gain,27.68,Overweight
+183,44,170,80,Male,Push-ups,Chest,Compound,3,Muscle Gain,27.68,Overweight
+183,44,170,80,Male,Crunches,Core,Isolation,3,Muscle Gain,27.68,Overweight
+184,30,168,70,Female,Deadlift,Back,Compound,4,Muscle Gain,24.8,Normal Weight
+184,30,168,70,Female,Barbell Rows,Back,Compound,4,Muscle Gain,24.8,Normal Weight
+184,30,168,70,Female,Bench Press,Chest,Compound,4,Muscle Gain,24.8,Normal Weight
+184,30,168,70,Female,Squats,Legs,Compound,5,Muscle Gain,24.8,Normal Weight
+184,30,168,70,Female,Shoulder Press,Shoulders,Isolation,4,Muscle Gain,24.8,Normal Weight
+185,35,172,75,Male,Leg Press,Legs,Compound,4,Muscle Gain,25.35,Overweight
+185,35,172,75,Male,Plank,Core,Compound,3,Muscle Gain,25.35,Overweight
+185,35,172,75,Male,Leg Curls,Legs,Isolation,4,Muscle Gain,25.35,Overweight
+185,35,172,75,Male,Lunges,Legs,Compound,5,Muscle Gain,25.35,Overweight
+185,35,172,75,Male,Push-ups,Chest,Compound,3,Muscle Gain,25.35,Overweight
+186,40,175,85,Female,Barbell Rows,Back,Compound,4,Muscle Gain,27.76,Overweight
+186,40,175,85,Female,Deadlift,Back,Compound,4,Muscle Gain,27.76,Overweight
+186,40,175,85,Female,Squats,Legs,Compound,5,Muscle Gain,27.76,Overweight
+186,40,175,85,Female,Bench Press,Chest,Compound,4,Muscle Gain,27.76,Overweight
+186,40,175,85,Female,Shoulder Press,Shoulders,Isolation,4,Muscle Gain,27.76,Overweight
+187,36,165,70,Female,Leg Curls,Legs,Isolation,4,Muscle Gain,25.71,Overweight
+187,36,165,70,Female,Lunges,Legs,Compound,5,Muscle Gain,25.71,Overweight
+187,36,165,70,Female,Push-ups,Chest,Compound,3,Muscle Gain,25.71,Overweight
+187,36,165,70,Female,Plank,Core,Compound,3,Muscle Gain,25.71,Overweight
+187,36,165,70,Female,Crunches,Core,Isolation,3,Muscle Gain,25.71,Overweight
+188,50,175,85,Male,Hanging Leg Raises,Core,Isolation,3,Muscle Gain,27.76,Overweight
+188,50,175,85,Male,Dips,Triceps,Compound,4,Muscle Gain,27.76,Overweight
+188,50,175,85,Male,Barbell Curls,Biceps,Isolation,3,Muscle Gain,27.76,Overweight
+188,50,175,85,Male,Leg Press,Legs,Compound,4,Muscle Gain,27.76,Overweight
+188,50,175,85,Male,Glute Bridges,Glutes,Compound,4,Muscle Gain,27.76,Overweight
+189,37,160,65,Female,Leg Press,Legs,Compound,4,Muscle Gain,25.39,Overweight
+189,37,160,65,Female,Plank,Core,Compound,3,Muscle Gain,25.39,Overweight
+189,37,160,65,Female,Leg Curls,Legs,Isolation,4,Muscle Gain,25.39,Overweight
+189,37,160,65,Female,Lunges,Legs,Compound,5,Muscle Gain,25.39,Overweight
+189,37,160,65,Female,Push-ups,Chest,Compound,3,Muscle Gain,25.39,Overweight
+190,44,170,80,Male,Plank,Core,Compound,3,Muscle Gain,27.68,Overweight
+190,44,170,80,Male,Leg Curls,Legs,Isolation,4,Muscle Gain,27.68,Overweight
+190,44,170,80,Male,Lunges,Legs,Compound,5,Muscle Gain,27.68,Overweight
+190,44,170,80,Male,Push-ups,Chest,Compound,3,Muscle Gain,27.68,Overweight
+190,44,170,80,Male,Crunches,Core,Isolation,3,Muscle Gain,27.68,Overweight
+191,30,168,70,Female,Deadlift,Back,Compound,4,Muscle Gain,24.8,Normal Weight
+191,30,168,70,Female,Barbell Rows,Back,Compound,4,Muscle Gain,24.8,Normal Weight
+191,30,168,70,Female,Bench Press,Chest,Compound,4,Muscle Gain,24.8,Normal Weight
+191,30,168,70,Female,Squats,Legs,Compound,5,Muscle Gain,24.8,Normal Weight
+191,30,168,70,Female,Shoulder Press,Shoulders,Isolation,4,Muscle Gain,24.8,Normal Weight
+192,35,172,75,Male,Leg Press,Legs,Compound,4,Muscle Gain,25.35,Overweight
+192,35,172,75,Male,Plank,Core,Compound,3,Muscle Gain,25.35,Overweight
+192,35,172,75,Male,Leg Curls,Legs,Isolation,4,Muscle Gain,25.35,Overweight
+192,35,172,75,Male,Lunges,Legs,Compound,5,Muscle Gain,25.35,Overweight
+192,35,172,75,Male,Push-ups,Chest,Compound,3,Muscle Gain,25.35,Overweight
+193,40,175,85,Female,Barbell Rows,Back,Compound,4,Muscle Gain,27.76,Overweight
+193,40,175,85,Female,Deadlift,Back,Compound,4,Muscle Gain,27.76,Overweight
+193,40,175,85,Female,Squats,Legs,Compound,5,Muscle Gain,27.76,Overweight
+193,40,175,85,Female,Bench Press,Chest,Compound,4,Muscle Gain,27.76,Overweight
+193,40,175,85,Female,Shoulder Press,Shoulders,Isolation,4,Muscle Gain,27.76,Overweight
+194,36,165,70,Female,Leg Curls,Legs,Isolation,4,Muscle Gain,25.71,Overweight
+194,36,165,70,Female,Lunges,Legs,Compound,5,Muscle Gain,25.71,Overweight
+194,36,165,70,Female,Push-ups,Chest,Compound,3,Muscle Gain,25.71,Overweight
+194,36,165,70,Female,Plank,Core,Compound,3,Muscle Gain,25.71,Overweight
+194,36,165,70,Female,Crunches,Core,Isolation,3,Muscle Gain,25.71,Overweight
+195,50,175,85,Male,Hanging Leg Raises,Core,Isolation,3,Muscle Gain,27.76,Overweight
+195,50,175,85,Male,Dips,Triceps,Compound,4,Muscle Gain,27.76,Overweight
+195,50,175,85,Male,Barbell Curls,Biceps,Isolation,3,Muscle Gain,27.76,Overweight
+195,50,175,85,Male,Leg Press,Legs,Compound,4,Muscle Gain,27.76,Overweight
+195,50,175,85,Male,Glute Bridges,Glutes,Compound,4,Muscle Gain,27.76,Overweight
+196,37,160,65,Female,Leg Press,Legs,Compound,4,Muscle Gain,25.39,Overweight
+196,37,160,65,Female,Plank,Core,Compound,3,Muscle Gain,25.39,Overweight
+196,37,160,65,Female,Leg Curls,Legs,Isolation,4,Muscle Gain,25.39,Overweight
+196,37,160,65,Female,Lunges,Legs,Compound,5,Muscle Gain,25.39,Overweight
+196,37,160,65,Female,Push-ups,Chest,Compound,3,Muscle Gain,25.39,Overweight
+197,44,170,80,Male,Plank,Core,Compound,3,Muscle Gain,27.68,Overweight
+197,44,170,80,Male,Leg Curls,Legs,Isolation,4,Muscle Gain,27.68,Overweight
+197,44,170,80,Male,Lunges,Legs,Compound,5,Muscle Gain,27.68,Overweight
+197,44,170,80,Male,Push-ups,Chest,Compound,3,Muscle Gain,27.68,Overweight
+197,44,170,80,Male,Crunches,Core,Isolation,3,Muscle Gain,27.68,Overweight
+198,30,168,70,Female,Deadlift,Back,Compound,4,Muscle Gain,24.8,Normal Weight
+198,30,168,70,Female,Barbell Rows,Back,Compound,4,Muscle Gain,24.8,Normal Weight
+198,30,168,70,Female,Bench Press,Chest,Compound,4,Muscle Gain,24.8,Normal Weight
+198,30,168,70,Female,Squats,Legs,Compound,5,Muscle Gain,24.8,Normal Weight
+198,30,168,70,Female,Shoulder Press,Shoulders,Isolation,4,Muscle Gain,24.8,Normal Weight
+199,35,172,75,Male,Leg Press,Legs,Compound,4,Muscle Gain,25.35,Overweight
+199,35,172,75,Male,Plank,Core,Compound,3,Muscle Gain,25.35,Overweight
+199,35,172,75,Male,Leg Curls,Legs,Isolation,4,Muscle Gain,25.35,Overweight
+199,35,172,75,Male,Lunges,Legs,Compound,5,Muscle Gain,25.35,Overweight
+199,35,172,75,Male,Push-ups,Chest,Compound,3,Muscle Gain,25.35,Overweight
+200,40,175,85,Female,Barbell Rows,Back,Compound,4,Muscle Gain,27.76,Overweight
+200,40,175,85,Female,Deadlift,Back,Compound,4,Muscle Gain,27.76,Overweight
+200,40,175,85,Female,Squats,Legs,Compound,5,Muscle Gain,27.76,Overweight
+200,40,175,85,Female,Bench Press,Chest,Compound,4,Muscle Gain,27.76,Overweight
+200,40,175,85,Female,Shoulder Press,Shoulders,Isolation,4,Muscle Gain,27.76,Overweight
+201,36,165,70,Female,Leg Curls,Legs,Isolation,4,Muscle Gain,25.71,Overweight
+201,36,165,70,Female,Lunges,Legs,Compound,5,Muscle Gain,25.71,Overweight
+201,36,165,70,Female,Push-ups,Chest,Compound,3,Muscle Gain,25.71,Overweight
+201,36,165,70,Female,Plank,Core,Compound,3,Muscle Gain,25.71,Overweight
+201,36,165,70,Female,Crunches,Core,Isolation,3,Muscle Gain,25.71,Overweight
+202,50,175,85,Male,Hanging Leg Raises,Core,Isolation,3,Muscle Gain,27.76,Overweight
+202,50,175,85,Male,Dips,Triceps,Compound,4,Muscle Gain,27.76,Overweight
+202,50,175,85,Male,Barbell Curls,Biceps,Isolation,3,Muscle Gain,27.76,Overweight
+202,50,175,85,Male,Leg Press,Legs,Compound,4,Muscle Gain,27.76,Overweight
+202,50,175,85,Male,Glute Bridges,Glutes,Compound,4,Muscle Gain,27.76,Overweight
+203,37,160,65,Female,Leg Press,Legs,Compound,4,Muscle Gain,25.39,Overweight
+203,37,160,65,Female,Plank,Core,Compound,3,Muscle Gain,25.39,Overweight
+203,37,160,65,Female,Leg Curls,Legs,Isolation,4,Muscle Gain,25.39,Overweight
+203,37,160,65,Female,Lunges,Legs,Compound,5,Muscle Gain,25.39,Overweight
+203,37,160,65,Female,Push-ups,Chest,Compound,3,Muscle Gain,25.39,Overweight
+204,44,170,80,Male,Plank,Core,Compound,3,Muscle Gain,27.68,Overweight
+204,44,170,80,Male,Leg Curls,Legs,Isolation,4,Muscle Gain,27.68,Overweight
+204,44,170,80,Male,Lunges,Legs,Compound,5,Muscle Gain,27.68,Overweight
+204,44,170,80,Male,Push-ups,Chest,Compound,3,Muscle Gain,27.68,Overweight
+204,44,170,80,Male,Crunches,Core,Isolation,3,Muscle Gain,27.68,Overweight
+205,30,168,70,Female,Deadlift,Back,Compound,4,Muscle Gain,24.8,Normal Weight
+205,30,168,70,Female,Barbell Rows,Back,Compound,4,Muscle Gain,24.8,Normal Weight
+205,30,168,70,Female,Bench Press,Chest,Compound,4,Muscle Gain,24.8,Normal Weight
+205,30,168,70,Female,Squats,Legs,Compound,5,Muscle Gain,24.8,Normal Weight
+205,30,168,70,Female,Shoulder Press,Shoulders,Isolation,4,Muscle Gain,24.8,Normal Weight
+206,35,172,75,Male,Leg Press,Legs,Compound,4,Muscle Gain,25.35,Overweight
+206,35,172,75,Male,Plank,Core,Compound,3,Muscle Gain,25.35,Overweight
+206,35,172,75,Male,Leg Curls,Legs,Isolation,4,Muscle Gain,25.35,Overweight
+206,35,172,75,Male,Lunges,Legs,Compound,5,Muscle Gain,25.35,Overweight
+206,35,172,75,Male,Push-ups,Chest,Compound,3,Muscle Gain,25.35,Overweight
+207,40,175,85,Female,Barbell Rows,Back,Compound,4,Muscle Gain,27.76,Overweight
+207,40,175,85,Female,Deadlift,Back,Compound,4,Muscle Gain,27.76,Overweight
+207,40,175,85,Female,Squats,Legs,Compound,5,Muscle Gain,27.76,Overweight
+207,40,175,85,Female,Bench Press,Chest,Compound,4,Muscle Gain,27.76,Overweight
+207,40,175,85,Female,Shoulder Press,Shoulders,Isolation,4,Muscle Gain,27.76,Overweight
+208,36,165,70,Female,Leg Curls,Legs,Isolation,4,Muscle Gain,25.71,Overweight
+208,36,165,70,Female,Lunges,Legs,Compound,5,Muscle Gain,25.71,Overweight
+208,36,165,70,Female,Push-ups,Chest,Compound,3,Muscle Gain,25.71,Overweight
+208,36,165,70,Female,Plank,Core,Compound,3,Muscle Gain,25.71,Overweight
+208,36,165,70,Female,Crunches,Core,Isolation,3,Muscle Gain,25.71,Overweight
+209,50,175,85,Male,Hanging Leg Raises,Core,Isolation,3,Muscle Gain,27.76,Overweight
+209,50,175,85,Male,Dips,Triceps,Compound,4,Muscle Gain,27.76,Overweight
+209,50,175,85,Male,Barbell Curls,Biceps,Isolation,3,Muscle Gain,27.76,Overweight
+209,50,175,85,Male,Leg Press,Legs,Compound,4,Muscle Gain,27.76,Overweight
+209,50,175,85,Male,Glute Bridges,Glutes,Compound,4,Muscle Gain,27.76,Overweight
+210,37,160,65,Female,Leg Press,Legs,Compound,4,Muscle Gain,25.39,Overweight
+210,37,160,65,Female,Plank,Core,Compound,3,Muscle Gain,25.39,Overweight
+210,37,160,65,Female,Leg Curls,Legs,Isolation,4,Muscle Gain,25.39,Overweight
+210,37,160,65,Female,Lunges,Legs,Compound,5,Muscle Gain,25.39,Overweight
+210,37,160,65,Female,Push-ups,Chest,Compound,3,Muscle Gain,25.39,Overweight
+211,44,170,80,Male,Plank,Core,Compound,3,Muscle Gain,27.68,Overweight
+211,44,170,80,Male,Leg Curls,Legs,Isolation,4,Muscle Gain,27.68,Overweight
+211,44,170,80,Male,Lunges,Legs,Compound,5,Muscle Gain,27.68,Overweight
+211,44,170,80,Male,Push-ups,Chest,Compound,3,Muscle Gain,27.68,Overweight
+211,44,170,80,Male,Crunches,Core,Isolation,3,Muscle Gain,27.68,Overweight
+212,30,168,70,Female,Deadlift,Back,Compound,4,Muscle Gain,24.8,Normal Weight
+212,30,168,70,Female,Barbell Rows,Back,Compound,4,Muscle Gain,24.8,Normal Weight
+212,30,168,70,Female,Bench Press,Chest,Compound,4,Muscle Gain,24.8,Normal Weight
+212,30,168,70,Female,Squats,Legs,Compound,5,Muscle Gain,24.8,Normal Weight
+212,30,168,70,Female,Shoulder Press,Shoulders,Isolation,4,Muscle Gain,24.8,Normal Weight
+213,35,172,75,Male,Leg Press,Legs,Compound,4,Muscle Gain,25.35,Overweight
+213,35,172,75,Male,Plank,Core,Compound,3,Muscle Gain,25.35,Overweight
+213,35,172,75,Male,Leg Curls,Legs,Isolation,4,Muscle Gain,25.35,Overweight
+213,35,172,75,Male,Lunges,Legs,Compound,5,Muscle Gain,25.35,Overweight
+213,35,172,75,Male,Push-ups,Chest,Compound,3,Muscle Gain,25.35,Overweight
+214,40,175,85,Female,Barbell Rows,Back,Compound,4,Muscle Gain,27.76,Overweight
+214,40,175,85,Female,Deadlift,Back,Compound,4,Muscle Gain,27.76,Overweight
+214,40,175,85,Female,Squats,Legs,Compound,5,Muscle Gain,27.76,Overweight
+214,40,175,85,Female,Bench Press,Chest,Compound,4,Muscle Gain,27.76,Overweight
+214,40,175,85,Female,Shoulder Press,Shoulders,Isolation,4,Muscle Gain,27.76,Overweight
+215,36,165,70,Female,Leg Curls,Legs,Isolation,4,Muscle Gain,25.71,Overweight
+215,36,165,70,Female,Lunges,Legs,Compound,5,Muscle Gain,25.71,Overweight
+215,36,165,70,Female,Push-ups,Chest,Compound,3,Muscle Gain,25.71,Overweight
+215,36,165,70,Female,Plank,Core,Compound,3,Muscle Gain,25.71,Overweight
+215,36,165,70,Female,Crunches,Core,Isolation,3,Muscle Gain,25.71,Overweight
+216,50,175,85,Male,Hanging Leg Raises,Core,Isolation,3,Muscle Gain,27.76,Overweight
+216,50,175,85,Male,Dips,Triceps,Compound,4,Muscle Gain,27.76,Overweight
+216,50,175,85,Male,Barbell Curls,Biceps,Isolation,3,Muscle Gain,27.76,Overweight
+216,50,175,85,Male,Leg Press,Legs,Compound,4,Muscle Gain,27.76,Overweight
+216,50,175,85,Male,Glute Bridges,Glutes,Compound,4,Muscle Gain,27.76,Overweight
+217,37,160,65,Female,Leg Press,Legs,Compound,4,Muscle Gain,25.39,Overweight
+217,37,160,65,Female,Plank,Core,Compound,3,Muscle Gain,25.39,Overweight
+217,37,160,65,Female,Leg Curls,Legs,Isolation,4,Muscle Gain,25.39,Overweight
+217,37,160,65,Female,Lunges,Legs,Compound,5,Muscle Gain,25.39,Overweight
+217,37,160,65,Female,Push-ups,Chest,Compound,3,Muscle Gain,25.39,Overweight
+218,44,170,80,Male,Plank,Core,Compound,3,Muscle Gain,27.68,Overweight
+218,44,170,80,Male,Leg Curls,Legs,Isolation,4,Muscle Gain,27.68,Overweight
+218,44,170,80,Male,Lunges,Legs,Compound,5,Muscle Gain,27.68,Overweight
+218,44,170,80,Male,Push-ups,Chest,Compound,3,Muscle Gain,27.68,Overweight
+218,44,170,80,Male,Crunches,Core,Isolation,3,Muscle Gain,27.68,Overweight
+219,30,168,70,Female,Deadlift,Back,Compound,4,Muscle Gain,24.8,Normal Weight
+219,30,168,70,Female,Barbell Rows,Back,Compound,4,Muscle Gain,24.8,Normal Weight
+219,30,168,70,Female,Bench Press,Chest,Compound,4,Muscle Gain,24.8,Normal Weight
+219,30,168,70,Female,Squats,Legs,Compound,5,Muscle Gain,24.8,Normal Weight
+219,30,168,70,Female,Shoulder Press,Shoulders,Isolation,4,Muscle Gain,24.8,Normal Weight
+220,35,172,75,Male,Leg Press,Legs,Compound,4,Muscle Gain,25.35,Overweight
+220,35,172,75,Male,Plank,Core,Compound,3,Muscle Gain,25.35,Overweight
+220,35,172,75,Male,Leg Curls,Legs,Isolation,4,Muscle Gain,25.35,Overweight
+220,35,172,75,Male,Lunges,Legs,Compound,5,Muscle Gain,25.35,Overweight
+220,35,172,75,Male,Push-ups,Chest,Compound,3,Muscle Gain,25.35,Overweight
+221,40,175,85,Female,Barbell Rows,Back,Compound,4,Muscle Gain,27.76,Overweight
+221,40,175,85,Female,Deadlift,Back,Compound,4,Muscle Gain,27.76,Overweight
+221,40,175,85,Female,Squats,Legs,Compound,5,Muscle Gain,27.76,Overweight
+221,40,175,85,Female,Bench Press,Chest,Compound,4,Muscle Gain,27.76,Overweight
+221,40,175,85,Female,Shoulder Press,Shoulders,Isolation,4,Muscle Gain,27.76,Overweight
+222,36,165,70,Female,Leg Curls,Legs,Isolation,4,Muscle Gain,25.71,Overweight
+222,36,165,70,Female,Lunges,Legs,Compound,5,Muscle Gain,25.71,Overweight
+222,36,165,70,Female,Push-ups,Chest,Compound,3,Muscle Gain,25.71,Overweight
+222,36,165,70,Female,Plank,Core,Compound,3,Muscle Gain,25.71,Overweight
+222,36,165,70,Female,Crunches,Core,Isolation,3,Muscle Gain,25.71,Overweight
+223,50,175,85,Male,Hanging Leg Raises,Core,Isolation,3,Muscle Gain,27.76,Overweight
+223,50,175,85,Male,Dips,Triceps,Compound,4,Muscle Gain,27.76,Overweight
+223,50,175,85,Male,Barbell Curls,Biceps,Isolation,3,Muscle Gain,27.76,Overweight
+223,50,175,85,Male,Leg Press,Legs,Compound,4,Muscle Gain,27.76,Overweight
+223,50,175,85,Male,Glute Bridges,Glutes,Compound,4,Muscle Gain,27.76,Overweight
+224,37,160,65,Female,Leg Press,Legs,Compound,4,Muscle Gain,25.39,Overweight
+224,37,160,65,Female,Plank,Core,Compound,3,Muscle Gain,25.39,Overweight
+224,37,160,65,Female,Leg Curls,Legs,Isolation,4,Muscle Gain,25.39,Overweight
+224,37,160,65,Female,Lunges,Legs,Compound,5,Muscle Gain,25.39,Overweight
+224,37,160,65,Female,Push-ups,Chest,Compound,3,Muscle Gain,25.39,Overweight
+225,44,170,80,Male,Plank,Core,Compound,3,Muscle Gain,27.68,Overweight
+225,44,170,80,Male,Leg Curls,Legs,Isolation,4,Muscle Gain,27.68,Overweight
+225,44,170,80,Male,Lunges,Legs,Compound,5,Muscle Gain,27.68,Overweight
+225,44,170,80,Male,Push-ups,Chest,Compound,3,Muscle Gain,27.68,Overweight
+225,44,170,80,Male,Crunches,Core,Isolation,3,Muscle Gain,27.68,Overweight
+226,30,168,70,Female,Deadlift,Back,Compound,4,Muscle Gain,24.8,Normal Weight
+226,30,168,70,Female,Barbell Rows,Back,Compound,4,Muscle Gain,24.8,Normal Weight
+226,30,168,70,Female,Bench Press,Chest,Compound,4,Muscle Gain,24.8,Normal Weight
+226,30,168,70,Female,Squats,Legs,Compound,5,Muscle Gain,24.8,Normal Weight
+226,30,168,70,Female,Shoulder Press,Shoulders,Isolation,4,Muscle Gain,24.8,Normal Weight
+227,35,172,75,Male,Leg Press,Legs,Compound,4,Muscle Gain,25.35,Overweight
+227,35,172,75,Male,Plank,Core,Compound,3,Muscle Gain,25.35,Overweight
+227,35,172,75,Male,Leg Curls,Legs,Isolation,4,Muscle Gain,25.35,Overweight
+227,35,172,75,Male,Lunges,Legs,Compound,5,Muscle Gain,25.35,Overweight
+227,35,172,75,Male,Push-ups,Chest,Compound,3,Muscle Gain,25.35,Overweight
+228,40,175,85,Female,Barbell Rows,Back,Compound,4,Muscle Gain,27.76,Overweight
+228,40,175,85,Female,Deadlift,Back,Compound,4,Muscle Gain,27.76,Overweight
+228,40,175,85,Female,Squats,Legs,Compound,5,Muscle Gain,27.76,Overweight
+228,40,175,85,Female,Bench Press,Chest,Compound,4,Muscle Gain,27.76,Overweight
+228,40,175,85,Female,Shoulder Press,Shoulders,Isolation,4,Muscle Gain,27.76,Overweight
+229,36,165,70,Female,Leg Curls,Legs,Isolation,4,Muscle Gain,25.71,Overweight
+229,36,165,70,Female,Lunges,Legs,Compound,5,Muscle Gain,25.71,Overweight
+229,36,165,70,Female,Push-ups,Chest,Compound,3,Muscle Gain,25.71,Overweight
+229,36,165,70,Female,Plank,Core,Compound,3,Muscle Gain,25.71,Overweight
+229,36,165,70,Female,Crunches,Core,Isolation,3,Muscle Gain,25.71,Overweight
+230,50,175,85,Male,Hanging Leg Raises,Core,Isolation,3,Muscle Gain,27.76,Overweight
+230,50,175,85,Male,Dips,Triceps,Compound,4,Muscle Gain,27.76,Overweight
+230,50,175,85,Male,Barbell Curls,Biceps,Isolation,3,Muscle Gain,27.76,Overweight
+230,50,175,85,Male,Leg Press,Legs,Compound,4,Muscle Gain,27.76,Overweight
+230,50,175,85,Male,Glute Bridges,Glutes,Compound,4,Muscle Gain,27.76,Overweight
+231,37,160,65,Female,Leg Press,Legs,Compound,4,Muscle Gain,25.39,Overweight
+231,37,160,65,Female,Plank,Core,Compound,3,Muscle Gain,25.39,Overweight
+231,37,160,65,Female,Leg Curls,Legs,Isolation,4,Muscle Gain,25.39,Overweight
+231,37,160,65,Female,Lunges,Legs,Compound,5,Muscle Gain,25.39,Overweight
+231,37,160,65,Female,Push-ups,Chest,Compound,3,Muscle Gain,25.39,Overweight
+232,44,170,80,Male,Plank,Core,Compound,3,Muscle Gain,27.68,Overweight
+232,44,170,80,Male,Leg Curls,Legs,Isolation,4,Muscle Gain,27.68,Overweight
+232,44,170,80,Male,Lunges,Legs,Compound,5,Muscle Gain,27.68,Overweight
+232,44,170,80,Male,Push-ups,Chest,Compound,3,Muscle Gain,27.68,Overweight
+232,44,170,80,Male,Crunches,Core,Isolation,3,Muscle Gain,27.68,Overweight
+233,30,168,70,Female,Deadlift,Back,Compound,4,Muscle Gain,24.8,Normal Weight
+233,30,168,70,Female,Barbell Rows,Back,Compound,4,Muscle Gain,24.8,Normal Weight
+233,30,168,70,Female,Bench Press,Chest,Compound,4,Muscle Gain,24.8,Normal Weight
+233,30,168,70,Female,Squats,Legs,Compound,5,Muscle Gain,24.8,Normal Weight
+233,30,168,70,Female,Shoulder Press,Shoulders,Isolation,4,Muscle Gain,24.8,Normal Weight
+234,35,172,75,Male,Leg Press,Legs,Compound,4,Muscle Gain,25.35,Overweight
+234,35,172,75,Male,Plank,Core,Compound,3,Muscle Gain,25.35,Overweight
+234,35,172,75,Male,Leg Curls,Legs,Isolation,4,Muscle Gain,25.35,Overweight
+234,35,172,75,Male,Lunges,Legs,Compound,5,Muscle Gain,25.35,Overweight
+234,35,172,75,Male,Push-ups,Chest,Compound,3,Muscle Gain,25.35,Overweight
+235,40,175,85,Female,Barbell Rows,Back,Compound,4,Muscle Gain,27.76,Overweight
+235,40,175,85,Female,Deadlift,Back,Compound,4,Muscle Gain,27.76,Overweight
+235,40,175,85,Female,Squats,Legs,Compound,5,Muscle Gain,27.76,Overweight
+235,40,175,85,Female,Bench Press,Chest,Compound,4,Muscle Gain,27.76,Overweight
+235,40,175,85,Female,Shoulder Press,Shoulders,Isolation,4,Muscle Gain,27.76,Overweight
+236,36,165,70,Female,Leg Curls,Legs,Isolation,4,Muscle Gain,25.71,Overweight
+236,36,165,70,Female,Lunges,Legs,Compound,5,Muscle Gain,25.71,Overweight
+236,36,165,70,Female,Push-ups,Chest,Compound,3,Muscle Gain,25.71,Overweight
+236,36,165,70,Female,Plank,Core,Compound,3,Muscle Gain,25.71,Overweight
+236,36,165,70,Female,Crunches,Core,Isolation,3,Muscle Gain,25.71,Overweight
+237,50,175,85,Male,Hanging Leg Raises,Core,Isolation,3,Muscle Gain,27.76,Overweight
+237,50,175,85,Male,Dips,Triceps,Compound,4,Muscle Gain,27.76,Overweight
+237,50,175,85,Male,Barbell Curls,Biceps,Isolation,3,Muscle Gain,27.76,Overweight
+237,50,175,85,Male,Leg Press,Legs,Compound,4,Muscle Gain,27.76,Overweight
+237,50,175,85,Male,Glute Bridges,Glutes,Compound,4,Muscle Gain,27.76,Overweight
+238,37,160,65,Female,Leg Press,Legs,Compound,4,Muscle Gain,25.39,Overweight
+238,37,160,65,Female,Plank,Core,Compound,3,Muscle Gain,25.39,Overweight
+238,37,160,65,Female,Leg Curls,Legs,Isolation,4,Muscle Gain,25.39,Overweight
+238,37,160,65,Female,Lunges,Legs,Compound,5,Muscle Gain,25.39,Overweight
+238,37,160,65,Female,Push-ups,Chest,Compound,3,Muscle Gain,25.39,Overweight
+239,44,170,80,Male,Plank,Core,Compound,3,Muscle Gain,27.68,Overweight
+239,44,170,80,Male,Leg Curls,Legs,Isolation,4,Muscle Gain,27.68,Overweight
+239,44,170,80,Male,Lunges,Legs,Compound,5,Muscle Gain,27.68,Overweight
+239,44,170,80,Male,Push-ups,Chest,Compound,3,Muscle Gain,27.68,Overweight
+239,44,170,80,Male,Crunches,Core,Isolation,3,Muscle Gain,27.68,Overweight
+240,30,168,70,Female,Deadlift,Back,Compound,4,Muscle Gain,24.8,Normal Weight
+240,30,168,70,Female,Barbell Rows,Back,Compound,4,Muscle Gain,24.8,Normal Weight
+240,30,168,70,Female,Bench Press,Chest,Compound,4,Muscle Gain,24.8,Normal Weight
+240,30,168,70,Female,Squats,Legs,Compound,5,Muscle Gain,24.8,Normal Weight
+240,30,168,70,Female,Shoulder Press,Shoulders,Isolation,4,Muscle Gain,24.8,Normal Weight
+241,35,172,75,Male,Leg Press,Legs,Compound,4,Muscle Gain,25.35,Overweight
+241,35,172,75,Male,Plank,Core,Compound,3,Muscle Gain,25.35,Overweight
+241,35,172,75,Male,Leg Curls,Legs,Isolation,4,Muscle Gain,25.35,Overweight
+241,35,172,75,Male,Lunges,Legs,Compound,5,Muscle Gain,25.35,Overweight
+241,35,172,75,Male,Push-ups,Chest,Compound,3,Muscle Gain,25.35,Overweight
+242,40,175,85,Female,Barbell Rows,Back,Compound,4,Muscle Gain,27.76,Overweight
+242,40,175,85,Female,Deadlift,Back,Compound,4,Muscle Gain,27.76,Overweight
+242,40,175,85,Female,Squats,Legs,Compound,5,Muscle Gain,27.76,Overweight
+242,40,175,85,Female,Bench Press,Chest,Compound,4,Muscle Gain,27.76,Overweight
+242,40,175,85,Female,Shoulder Press,Shoulders,Isolation,4,Muscle Gain,27.76,Overweight
+243,36,165,70,Female,Leg Curls,Legs,Isolation,4,Muscle Gain,25.71,Overweight
+243,36,165,70,Female,Lunges,Legs,Compound,5,Muscle Gain,25.71,Overweight
+243,36,165,70,Female,Push-ups,Chest,Compound,3,Muscle Gain,25.71,Overweight
+243,36,165,70,Female,Plank,Core,Compound,3,Muscle Gain,25.71,Overweight
+243,36,165,70,Female,Crunches,Core,Isolation,3,Muscle Gain,25.71,Overweight
+244,50,175,85,Male,Hanging Leg Raises,Core,Isolation,3,Muscle Gain,27.76,Overweight
+244,50,175,85,Male,Dips,Triceps,Compound,4,Muscle Gain,27.76,Overweight
+244,50,175,85,Male,Barbell Curls,Biceps,Isolation,3,Muscle Gain,27.76,Overweight
+244,50,175,85,Male,Leg Press,Legs,Compound,4,Muscle Gain,27.76,Overweight
+244,50,175,85,Male,Glute Bridges,Glutes,Compound,4,Muscle Gain,27.76,Overweight
+245,37,160,65,Female,Leg Press,Legs,Compound,4,Muscle Gain,25.39,Overweight
+245,37,160,65,Female,Plank,Core,Compound,3,Muscle Gain,25.39,Overweight
+245,37,160,65,Female,Leg Curls,Legs,Isolation,4,Muscle Gain,25.39,Overweight
+245,37,160,65,Female,Lunges,Legs,Compound,5,Muscle Gain,25.39,Overweight
+245,37,160,65,Female,Push-ups,Chest,Compound,3,Muscle Gain,25.39,Overweight
+246,44,170,80,Male,Plank,Core,Compound,3,Muscle Gain,27.68,Overweight
+246,44,170,80,Male,Leg Curls,Legs,Isolation,4,Muscle Gain,27.68,Overweight
+246,44,170,80,Male,Lunges,Legs,Compound,5,Muscle Gain,27.68,Overweight
+246,44,170,80,Male,Push-ups,Chest,Compound,3,Muscle Gain,27.68,Overweight
+246,44,170,80,Male,Crunches,Core,Isolation,3,Muscle Gain,27.68,Overweight
+247,30,168,70,Female,Deadlift,Back,Compound,4,Muscle Gain,24.8,Normal Weight
+247,30,168,70,Female,Barbell Rows,Back,Compound,4,Muscle Gain,24.8,Normal Weight
+247,30,168,70,Female,Bench Press,Chest,Compound,4,Muscle Gain,24.8,Normal Weight
+247,30,168,70,Female,Squats,Legs,Compound,5,Muscle Gain,24.8,Normal Weight
+247,30,168,70,Female,Shoulder Press,Shoulders,Isolation,4,Muscle Gain,24.8,Normal Weight
+248,35,172,75,Male,Leg Press,Legs,Compound,4,Muscle Gain,25.35,Overweight
+248,35,172,75,Male,Plank,Core,Compound,3,Muscle Gain,25.35,Overweight
+248,35,172,75,Male,Leg Curls,Legs,Isolation,4,Muscle Gain,25.35,Overweight
+248,35,172,75,Male,Lunges,Legs,Compound,5,Muscle Gain,25.35,Overweight
+248,35,172,75,Male,Push-ups,Chest,Compound,3,Muscle Gain,25.35,Overweight
+249,40,175,85,Female,Barbell Rows,Back,Compound,4,Muscle Gain,27.76,Overweight
+249,40,175,85,Female,Deadlift,Back,Compound,4,Muscle Gain,27.76,Overweight
+249,40,175,85,Female,Squats,Legs,Compound,5,Muscle Gain,27.76,Overweight
+249,40,175,85,Female,Bench Press,Chest,Compound,4,Muscle Gain,27.76,Overweight
+249,40,175,85,Female,Shoulder Press,Shoulders,Isolation,4,Muscle Gain,27.76,Overweight
+250,36,165,70,Female,Leg Curls,Legs,Isolation,4,Muscle Gain,25.71,Overweight
+250,36,165,70,Female,Lunges,Legs,Compound,5,Muscle Gain,25.71,Overweight
+250,36,165,70,Female,Push-ups,Chest,Compound,3,Muscle Gain,25.71,Overweight
+250,36,165,70,Female,Plank,Core,Compound,3,Muscle Gain,25.71,Overweight
+250,36,165,70,Female,Crunches,Core,Isolation,3,Muscle Gain,25.71,Overweight
+251,50,175,85,Male,Hanging Leg Raises,Core,Isolation,3,Muscle Gain,27.76,Overweight
+251,50,175,85,Male,Dips,Triceps,Compound,4,Muscle Gain,27.76,Overweight
+251,50,175,85,Male,Barbell Curls,Biceps,Isolation,3,Muscle Gain,27.76,Overweight
+251,50,175,85,Male,Leg Press,Legs,Compound,4,Muscle Gain,27.76,Overweight
+251,50,175,85,Male,Glute Bridges,Glutes,Compound,4,Muscle Gain,27.76,Overweight
+252,37,160,65,Female,Leg Press,Legs,Compound,4,Muscle Gain,25.39,Overweight
+252,37,160,65,Female,Plank,Core,Compound,3,Muscle Gain,25.39,Overweight
+252,37,160,65,Female,Leg Curls,Legs,Isolation,4,Muscle Gain,25.39,Overweight
+252,37,160,65,Female,Lunges,Legs,Compound,5,Muscle Gain,25.39,Overweight
+252,37,160,65,Female,Push-ups,Chest,Compound,3,Muscle Gain,25.39,Overweight
+253,44,170,80,Male,Plank,Core,Compound,3,Muscle Gain,27.68,Overweight
+253,44,170,80,Male,Leg Curls,Legs,Isolation,4,Muscle Gain,27.68,Overweight
+253,44,170,80,Male,Lunges,Legs,Compound,5,Muscle Gain,27.68,Overweight
+253,44,,,,,,,,,,

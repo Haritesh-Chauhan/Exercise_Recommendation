@@ -1,0 +1,278 @@
+from flask import Flask, request, jsonify
+from datetime import datetime, timedelta
+import dateutil.parser
+from Exercise import UserProfile, WorkoutPlanner
+
+app = Flask(__name__)
+planner = WorkoutPlanner()
+
+# Standardized error responses
+def error_response(message, status_code=400):
+    """Create a standardized error response"""
+    return jsonify({
+        'error': True,
+        'message': message
+    }), status_code
+
+# Error handling
+@app.errorhandler(400)
+def bad_request(error):
+    return error_response(str(error), 400)
+
+@app.errorhandler(404)
+def not_found(error):
+    return error_response(str(error), 404)
+
+# Routes
+@app.route('/api/health', methods=['GET'])
+def health_check():
+    """Basic health check endpoint"""
+    return jsonify({
+        'status': 'healthy',
+        'timestamp': datetime.now().isoformat()
+    })
+
+@app.route('/api/exercises', methods=['GET'])
+def get_exercises():
+    """Get all available exercises"""
+    exercise_type = request.args.get('type')
+    if exercise_type and exercise_type.lower() in planner.exercise_db.workout_types:
+        return jsonify({
+            'exercises': planner.exercise_db.workout_types[exercise_type.lower()]
+        })
+    return jsonify({
+        'exercises': planner.exercise_db.workout_types
+    })
+
+@app.route('/api/workout-types', methods=['GET'])
+def get_workout_types():
+    """Get available workout types and their exercises"""
+    return jsonify({
+        'workout_types': list(planner.exercise_db.workout_types.keys())
+    })
+
+@app.route('/api/equipment', methods=['GET'])
+def get_equipment():
+    """Get equipment mappings"""
+    return jsonify({
+        'equipment_mapping': planner.exercise_db.equipment_mapping
+    })
+
+@app.route('/api/goals', methods=['GET'])
+def get_goals():
+    """Get available fitness goals and their workout splits"""
+    return jsonify({
+        'goals': planner.goal_workout_mapping
+    })
+
+def validate_user_data(data):
+    """Validate user data and standardize formats"""
+    # Validate required fields
+    required_fields = ['age', 'height', 'weight', 'gender', 'fitness_level',
+                       'goal', 'preferred_days']
+    missing_fields = [field for field in required_fields if field not in data]
+    if missing_fields:
+        return False, f"Missing required fields: {', '.join(missing_fields)}"
+    
+    # Standardize goal to lowercase
+    data['goal'] = data['goal'].lower()
+    
+    # Standardize preferred_days to list of lowercase day names
+    if isinstance(data['preferred_days'], list):
+        data['preferred_days'] = [day.lower() for day in data['preferred_days']]
+    elif isinstance(data['preferred_days'], int):
+        # Convert numeric days to standard day format based on your system logic
+        # This is a placeholder - implement according to your specific requirements
+        pass
+    else:
+        return False, "preferred_days must be a list of day names or an integer"
+    
+    # Ensure health_conditions is a list
+    if 'health_conditions' not in data:
+        data['health_conditions'] = []
+    elif not isinstance(data['health_conditions'], list):
+        return False, "health_conditions must be a list"
+    
+    return True, data
+
+@app.route('/api/generate-plan', methods=['POST'])
+def generate_workout_plan():
+    """Generate a workout plan based on user profile"""
+    try:
+        data = request.get_json()
+        
+        # Validate and standardize data
+        is_valid, result = validate_user_data(data)
+        if not is_valid:
+            return error_response(result)
+        
+        data = result  # Update with standardized data
+
+        # Create user profile
+        user = UserProfile(
+            age=data['age'],
+            height=data['height'],
+            weight=data['weight'],
+            gender=data['gender'].lower(),
+            fitness_level=data['fitness_level'].lower(),
+            health_conditions=data['health_conditions'],
+            goal=data['goal'],
+            preferred_days=data['preferred_days']
+        )
+
+        # Generate plan
+        weeks = data.get('weeks', 4)  # Default to 4 weeks if not specified
+        workout_plan = planner.generate_workout_plan(user, weeks=weeks)
+
+        return jsonify({
+            'workout_plan': workout_plan
+        })
+
+    except Exception as e:
+        return error_response(f"Failed to generate workout plan: {str(e)}")
+
+@app.route('/api/calculate-difficulty', methods=['POST'])
+def calculate_difficulty():
+    """Calculate workout difficulty based on user profile"""
+    try:
+        data = request.get_json()
+        
+        # Validate and standardize data
+        is_valid, result = validate_user_data(data)
+        if not is_valid:
+            return error_response(result)
+        
+        data = result  # Update with standardized data
+        
+        user = UserProfile(
+            age=data['age'],
+            height=data['height'],
+            weight=data['weight'],
+            gender=data['gender'].lower(),
+            fitness_level=data['fitness_level'].lower(),
+            health_conditions=data['health_conditions'],
+            goal=data['goal'],
+            preferred_days=data['preferred_days']
+        )
+
+        difficulty = planner.calculate_difficulty_modifier(user)
+        return jsonify({
+            'difficulty_modifier': difficulty
+        })
+
+    except Exception as e:
+        return error_response(f"Failed to calculate difficulty: {str(e)}")
+
+def parse_date(date_str):
+    """Parse and validate a date string"""
+    try:
+        return dateutil.parser.parse(date_str)
+    except ValueError:
+        raise ValueError("Date should be in ISO format (YYYY-MM-DD)")
+
+@app.route('/api/daily-challenge', methods=['POST'])
+def get_daily_challenge():
+    """Generate a daily workout challenge based on user profile and optional date"""
+    try:
+        data = request.get_json()
+        
+        # Validate and standardize data
+        is_valid, result = validate_user_data(data)
+        if not is_valid:
+            return error_response(result)
+        
+        data = result  # Update with standardized data
+
+        # Create user profile
+        user = UserProfile(
+            age=data['age'],
+            height=data['height'],
+            weight=data['weight'],
+            gender=data['gender'].lower(),
+            fitness_level=data['fitness_level'].lower(),
+            health_conditions=data['health_conditions'],
+            goal=data['goal'],
+            preferred_days=data['preferred_days']
+        )
+
+        # Check if specific date is provided
+        specific_date = None
+        if 'date' in data and data['date']:
+            try:
+                specific_date = parse_date(data['date'])
+            except ValueError as e:
+                return error_response(str(e))
+
+        # Generate daily challenge
+        daily_challenge = planner.generate_daily_challenge(user, specific_date)
+
+        return jsonify({
+            'daily_challenge': daily_challenge
+        })
+
+    except Exception as e:
+        return error_response(f"Failed to generate daily challenge: {str(e)}")
+
+@app.route('/api/daily-challenges-batch', methods=['POST'])
+def get_daily_challenges_batch():
+    """Generate multiple daily challenges for a date range"""
+    try:
+        data = request.get_json()
+        
+        # Validate and standardize user data
+        is_valid, result = validate_user_data(data)
+        if not is_valid:
+            return error_response(result)
+        
+        data = result  # Update with standardized data
+        
+        # Validate date fields
+        if 'start_date' not in data or 'end_date' not in data:
+            return error_response("Missing required fields: start_date and end_date")
+
+        # Parse dates
+        try:
+            start_date = parse_date(data['start_date'])
+            end_date = parse_date(data['end_date'])
+        except ValueError as e:
+            return error_response(str(e))
+
+        if start_date > end_date:
+            return error_response("Start date must be before or equal to end date")
+
+        # Create user profile
+        user = UserProfile(
+            age=data['age'],
+            height=data['height'],
+            weight=data['weight'],
+            gender=data['gender'].lower(),
+            fitness_level=data['fitness_level'].lower(),
+            health_conditions=data['health_conditions'],
+            goal=data['goal'],
+            preferred_days=data['preferred_days']
+        )
+
+        # Generate a challenge for each date in the range
+        challenges = []
+        current_date = start_date
+        days_limit = 31  # Limit to prevent excessive processing
+        day_count = 0
+
+        while current_date <= end_date and day_count < days_limit:
+            challenge = planner.generate_daily_challenge(user, current_date)
+            challenges.append(challenge)
+
+            # Move to next day (safer date increment)
+            current_date = current_date + timedelta(days=1)
+            day_count += 1
+
+        return jsonify({
+            'daily_challenges': challenges,
+            'count': len(challenges)
+        })
+
+    except Exception as e:
+        return error_response(f"Failed to generate daily challenges batch: {str(e)}")
+
+if __name__ == '__main__':
+    app.run(host='0.0.0.0', port=8000, debug=True)
